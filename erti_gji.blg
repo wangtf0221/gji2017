@@ -1,0 +1,150 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: erti_gji.aux
+The style file: gji.bst
+Database file #1: reference.bib
+I was expecting a `,' or a `}'---line 1465 of file reference.bib
+ : publisher={SEG}
+ :                .
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1474 of file reference.bib
+ : publisher={SEG}
+ :                .
+I'm skipping whatever remains of this entry
+Name 2 in "T.J. Sears and S.C. Singh, and P.J. Barton" has a comma at the end for entry sears2008
+while executing---line 3171 of file gji.bst
+Name 2 in "R. Brossier and S. Operto, and J. Virieux" has a comma at the end for entry brossier2009
+while executing---line 3171 of file gji.bst
+Name 2 in "T.F. Wang and J.B. Cheng, and C.L. Wang" has a comma at the end for entry wang:2015
+while executing---line 3171 of file gji.bst
+Name 2 in "Clement, F. and Chavent, G., and Gomez, S." has a comma at the end for entry clement:2001
+while executing---line 3171 of file gji.bst
+Name 2 in "S. Xu and D. Wang, and F. Chen, and G. Lambare and Y. Zhang" has a comma at the end for entry xu:2012
+while executing---line 3171 of file gji.bst
+Name 3 in "S. Xu and D. Wang, and F. Chen, and G. Lambare and Y. Zhang" has a comma at the end for entry xu:2012
+while executing---line 3171 of file gji.bst
+Name 2 in "Zhou, W. and Brossier, R., and Operto, S., and Virieux, J." has a comma at the end for entry Zhou2015
+while executing---line 3171 of file gji.bst
+Name 3 in "Zhou, W. and Brossier, R., and Operto, S., and Virieux, J." has a comma at the end for entry Zhou2015
+while executing---line 3171 of file gji.bst
+Name 2 in "B. Chi and L. Dong, and Y. Liu" has a comma at the end for entry Chi2015
+while executing---line 3171 of file gji.bst
+Name 1 in "C.L. Wang, and W. Weibull, and J.B. Cheng, and B. Arntsen" has a comma at the end for entry Wang2017WEMVA
+while executing---line 3171 of file gji.bst
+Name 1 in "C.L. Wang, and W. Weibull, and J.B. Cheng, and B. Arntsen" has a comma at the end for entry Wang2017WEMVA
+while executing---line 3171 of file gji.bst
+Name 2 in "C.L. Wang, and W. Weibull, and J.B. Cheng, and B. Arntsen" has a comma at the end for entry Wang2017WEMVA
+while executing---line 3171 of file gji.bst
+Name 3 in "C.L. Wang, and W. Weibull, and J.B. Cheng, and B. Arntsen" has a comma at the end for entry Wang2017WEMVA
+while executing---line 3171 of file gji.bst
+Name 1 in "T.F. Wang, and J.B. Cheng, and Q. Guo, and C.L. Wang" has a comma at the end for entry Wang2017ERTI
+while executing---line 3171 of file gji.bst
+Name 1 in "T.F. Wang, and J.B. Cheng, and Q. Guo, and C.L. Wang" has a comma at the end for entry Wang2017ERTI
+while executing---line 3171 of file gji.bst
+Name 2 in "T.F. Wang, and J.B. Cheng, and Q. Guo, and C.L. Wang" has a comma at the end for entry Wang2017ERTI
+while executing---line 3171 of file gji.bst
+Name 3 in "T.F. Wang, and J.B. Cheng, and Q. Guo, and C.L. Wang" has a comma at the end for entry Wang2017ERTI
+while executing---line 3171 of file gji.bst
+Name 2 in "R. Brossier and S. Operto, and J. Virieux" has a comma at the end for entry brossier2009
+while executing---line 3335 of file gji.bst
+Name 2 in "R. Brossier and S. Operto, and J. Virieux" has a comma at the end for entry brossier2009
+while executing---line 3335 of file gji.bst
+Name 2 in "B. Chi and L. Dong, and Y. Liu" has a comma at the end for entry Chi2015
+while executing---line 3335 of file gji.bst
+Name 2 in "B. Chi and L. Dong, and Y. Liu" has a comma at the end for entry Chi2015
+while executing---line 3335 of file gji.bst
+Name 2 in "Clement, F. and Chavent, G., and Gomez, S." has a comma at the end for entry clement:2001
+while executing---line 3335 of file gji.bst
+Name 2 in "Clement, F. and Chavent, G., and Gomez, S." has a comma at the end for entry clement:2001
+while executing---line 3335 of file gji.bst
+Warning--empty publisher in Ma2010
+Name 2 in "T.J. Sears and S.C. Singh, and P.J. Barton" has a comma at the end for entry sears2008
+while executing---line 3335 of file gji.bst
+Name 2 in "T.J. Sears and S.C. Singh, and P.J. Barton" has a comma at the end for entry sears2008
+while executing---line 3335 of file gji.bst
+Name 1 in "C.L. Wang, and W. Weibull, and J.B. Cheng, and B. Arntsen" has a comma at the end for entry Wang2017WEMVA
+while executing---line 3335 of file gji.bst
+Name 2 in "C.L. Wang, and W. Weibull, and J.B. Cheng, and B. Arntsen" has a comma at the end for entry Wang2017WEMVA
+while executing---line 3335 of file gji.bst
+Name 3 in "C.L. Wang, and W. Weibull, and J.B. Cheng, and B. Arntsen" has a comma at the end for entry Wang2017WEMVA
+while executing---line 3335 of file gji.bst
+Name 1 in "C.L. Wang, and W. Weibull, and J.B. Cheng, and B. Arntsen" has a comma at the end for entry Wang2017WEMVA
+while executing---line 3335 of file gji.bst
+Name 2 in "C.L. Wang, and W. Weibull, and J.B. Cheng, and B. Arntsen" has a comma at the end for entry Wang2017WEMVA
+while executing---line 3335 of file gji.bst
+Name 3 in "C.L. Wang, and W. Weibull, and J.B. Cheng, and B. Arntsen" has a comma at the end for entry Wang2017WEMVA
+while executing---line 3335 of file gji.bst
+Name 2 in "T.F. Wang and J.B. Cheng, and C.L. Wang" has a comma at the end for entry wang:2015
+while executing---line 3335 of file gji.bst
+Name 2 in "T.F. Wang and J.B. Cheng, and C.L. Wang" has a comma at the end for entry wang:2015
+while executing---line 3335 of file gji.bst
+Name 1 in "T.F. Wang, and J.B. Cheng, and Q. Guo, and C.L. Wang" has a comma at the end for entry Wang2017ERTI
+while executing---line 3335 of file gji.bst
+Name 2 in "T.F. Wang, and J.B. Cheng, and Q. Guo, and C.L. Wang" has a comma at the end for entry Wang2017ERTI
+while executing---line 3335 of file gji.bst
+Name 3 in "T.F. Wang, and J.B. Cheng, and Q. Guo, and C.L. Wang" has a comma at the end for entry Wang2017ERTI
+while executing---line 3335 of file gji.bst
+Name 1 in "T.F. Wang, and J.B. Cheng, and Q. Guo, and C.L. Wang" has a comma at the end for entry Wang2017ERTI
+while executing---line 3335 of file gji.bst
+Name 2 in "T.F. Wang, and J.B. Cheng, and Q. Guo, and C.L. Wang" has a comma at the end for entry Wang2017ERTI
+while executing---line 3335 of file gji.bst
+Name 3 in "T.F. Wang, and J.B. Cheng, and Q. Guo, and C.L. Wang" has a comma at the end for entry Wang2017ERTI
+while executing---line 3335 of file gji.bst
+Name 2 in "S. Xu and D. Wang, and F. Chen, and G. Lambare and Y. Zhang" has a comma at the end for entry xu:2012
+while executing---line 3335 of file gji.bst
+Name 3 in "S. Xu and D. Wang, and F. Chen, and G. Lambare and Y. Zhang" has a comma at the end for entry xu:2012
+while executing---line 3335 of file gji.bst
+Name 2 in "S. Xu and D. Wang, and F. Chen, and G. Lambare and Y. Zhang" has a comma at the end for entry xu:2012
+while executing---line 3335 of file gji.bst
+Name 3 in "S. Xu and D. Wang, and F. Chen, and G. Lambare and Y. Zhang" has a comma at the end for entry xu:2012
+while executing---line 3335 of file gji.bst
+Name 2 in "Zhou, W. and Brossier, R., and Operto, S., and Virieux, J." has a comma at the end for entry Zhou2015
+while executing---line 3335 of file gji.bst
+Name 3 in "Zhou, W. and Brossier, R., and Operto, S., and Virieux, J." has a comma at the end for entry Zhou2015
+while executing---line 3335 of file gji.bst
+Name 2 in "Zhou, W. and Brossier, R., and Operto, S., and Virieux, J." has a comma at the end for entry Zhou2015
+while executing---line 3335 of file gji.bst
+Name 3 in "Zhou, W. and Brossier, R., and Operto, S., and Virieux, J." has a comma at the end for entry Zhou2015
+while executing---line 3335 of file gji.bst
+You've used 45 entries,
+            2773 wiz_defined-function locations,
+            1259 strings with 15556 characters,
+and the built_in function-call counts, 20280 in all, are:
+= -- 1708
+> -- 1168
+< -- 29
++ -- 399
+- -- 351
+* -- 2181
+:= -- 3182
+add.period$ -- 90
+call.type$ -- 45
+change.case$ -- 250
+chr.to.int$ -- 42
+cite$ -- 136
+duplicate$ -- 833
+empty$ -- 1491
+format.name$ -- 426
+if$ -- 3994
+int.to.chr$ -- 4
+int.to.str$ -- 1
+missing$ -- 47
+newline$ -- 184
+num.names$ -- 180
+pop$ -- 322
+preamble$ -- 1
+purify$ -- 207
+quote$ -- 0
+skip$ -- 639
+stack$ -- 0
+substring$ -- 992
+swap$ -- 251
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 399
+warning$ -- 1
+while$ -- 185
+width$ -- 0
+write$ -- 538
+(There were 49 error messages)

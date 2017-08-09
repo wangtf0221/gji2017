@@ -1,0 +1,1806 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.7.19)  9 AUG 2017 15:02
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**erti_gji.tex
+(./erti_gji.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(./gji.cls
+Document Class: gji 1995/11/30 v2.0 LaTeX2e document class
+Document Class `GJI' V2.0, released 1998 Nov
+\fntxvi=\skip41
+\fntxvii=\skip42
+\GJ@measure=\dimen102
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\@indentskip=\skip43
+\smallindent=\skip44
+\@footindent=\skip45
+\@leftskip=\skip46
+\c@dummy=\count85
+\c@table=\count86
+\c@figure=\count87
+\mathindent=\dimen103
+(./gji_extra.sty
+\@temptokenb=\toks14
+\pt@box=\box26
+\pt@width=\dimen104
+\pt@line=\count88
+\pt@nlines=\count89
+\pt@ncol=\count90
+\bibhang=\skip47
+\bibsep=\skip48
+LaTeX Info: Redefining \cite on input line 388.
+\c@NAT@ctr=\count91
+\oldvsize=\dimen105
+)) (./timet.sty
+Package: timet 1997/01/23 6.0 Times PSNFSS2e package
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen106
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen107
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count92
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count93
+\leftroot@=\count94
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count95
+\DOTSCASE@=\count96
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen108
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count97
+\c@MaxMatrixCols=\count98
+\dotsspace@=\muskip10
+\c@parentequation=\count99
+\dspbrk@lvl=\count100
+\tag@help=\toks16
+\row@=\count101
+\column@=\count102
+\maxfields@=\count103
+\andhelp@=\toks17
+\eqnshift@=\dimen109
+\alignsep@=\dimen110
+\tagshift@=\dimen111
+\tagwidth@=\dimen112
+\totwidth@=\dimen113
+\lineht@=\dimen114
+\@envbody=\toks18
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/listings.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+\lst@mode=\count104
+\lst@gtempboxa=\box29
+\lst@token=\toks21
+\lst@length=\count105
+\lst@currlwidth=\dimen115
+\lst@column=\count106
+\lst@pos=\count107
+\lst@lostspace=\dimen116
+\lst@width=\dimen117
+\lst@newlines=\count108
+\lst@lineno=\count109
+\abovecaptionskip=\skip52
+\belowcaptionskip=\skip53
+\lst@maxwidth=\dimen118
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
+\c@lstnumber=\count110
+\lst@skipnumbers=\count111
+\lst@framebox=\box30
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2014/09/06 1.5e listings configuration
+))
+Package: listings 2014/09/06 1.5e (Carsten Heinz)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen119
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count112
+))
+\Gin@req@height=\dimen120
+\Gin@req@width=\dimen121
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+
+
+Package subfigure Warning: Your document class has a bad definition
+ of \endfigure, most likely
+ \let\endfigure=\end@float
+ which has now been changed to
+ \def\endfigure{\end@float}
+ because otherwise subsequent changes to \end@float
+ (like done by several packages changing float behaviour)
+ can't take effect on \endfigure.
+ Please complain to your document class author.
+
+\subfigtopskip=\skip54
+\subfigcapskip=\skip55
+\subfigcaptopadj=\dimen122
+\subfigbottomskip=\skip56
+\subfigcapmargin=\dimen123
+\subfiglabelskip=\skip57
+\c@subfigure=\count113
+\c@lofdepth=\count114
+\c@subtable=\count115
+\c@lotdepth=\count116
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2015/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip58
+\subfig@bottom=\skip59
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen124
+\captionmargin@=\dimen125
+\captionwidth=\dimen126
+\caption@tempdima=\dimen127
+\caption@indent=\dimen128
+\caption@parindent=\dimen129
+\caption@hangindent=\dimen130
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\vskip 2ex\noindent #1 
+#2\par .
+\c@ContinuedFloat=\count117
+Package caption Info: listings package is loaded.
+Package caption Info: subfigure package is loaded.
+)
+\c@KVtest=\count118
+\sf@farskip=\skip60
+\sf@captopadj=\dimen131
+\sf@capskip=\skip61
+\sf@nearskip=\skip62
+\sf@top=\skip63
+\sf@bottom=\skip64
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box31
+\UL@hyphenbox=\box32
+\UL@skip=\skip65
+\UL@hook=\toks22
+\UL@height=\dimen132
+\UL@pe=\count119
+\UL@pixel=\dimen133
+\ULC@box=\box33
+Package: ulem 2012/05/18
+\ULdepth=\dimen134
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks23
+\pgfutil@tempdima=\dimen135
+\pgfutil@tempdimb=\dimen136
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box34
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2013/12/20 v3.0.0 (rcs-revision 1.28)
+))
+Package: pgf 2013/12/18 v3.0.0 (rcs-revision 1.14)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2013/11/30 v3.0.0 (rcs-revision 1.47)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks24
+\pgfkeys@temptoks=\toks25
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks26
+))
+\pgf@x=\dimen137
+\pgf@y=\dimen138
+\pgf@xa=\dimen139
+\pgf@ya=\dimen140
+\pgf@xb=\dimen141
+\pgf@yb=\dimen142
+\pgf@xc=\dimen143
+\pgf@yc=\dimen144
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count120
+\c@pgf@countb=\count121
+\c@pgf@countc=\count122
+\c@pgf@countd=\count123
+\t@pgf@toka=\toks27
+\t@pgf@tokb=\toks28
+\t@pgf@tokc=\toks29
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
+ef
+File: pgfsys-pdftex.def 2013/07/18  (rcs-revision 1.33)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count124
+\pgfsyssoftpath@bigbuffer@items=\count125
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.0 (rcs-revision 1.7)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen145
+\pgfmath@count=\count126
+\pgfmath@box=\box35
+\pgfmath@toks=\toks30
+\pgfmath@stack@operand=\toks31
+\pgfmath@stack@operation=\toks32
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count127
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen146
+\pgf@picmaxx=\dimen147
+\pgf@picminy=\dimen148
+\pgf@picmaxy=\dimen149
+\pgf@pathminx=\dimen150
+\pgf@pathmaxx=\dimen151
+\pgf@pathminy=\dimen152
+\pgf@pathmaxy=\dimen153
+\pgf@xx=\dimen154
+\pgf@xy=\dimen155
+\pgf@yx=\dimen156
+\pgf@yy=\dimen157
+\pgf@zx=\dimen158
+\pgf@zy=\dimen159
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen160
+\pgf@path@lasty=\dimen161
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2013/12/13  (rcs-revision 1.23)
+\pgf@shorten@end@additional=\dimen162
+\pgf@shorten@start@additional=\dimen163
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2013/10/09  (rcs-revision 1.44)
+\pgfpic=\box36
+\pgf@hbox=\box37
+\pgf@layerbox@main=\box38
+\pgf@picture@serial@count=\count128
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2013/09/19  (rcs-revision 1.11)
+\pgflinewidth=\dimen164
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2013/10/10  (rcs-revision 1.17)
+\pgf@pt@x=\dimen165
+\pgf@pt@y=\dimen166
+\pgf@pt@temp=\dimen167
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2013/11/07  (rcs-revision 1.40)
+\pgfarrowsep=\dimen168
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen169
+\pgf@sys@shading@range@num=\count129
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2013/07/15  (rcs-revision 1.20)
+\pgfexternal@startupbox=\box39
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2013/10/31  (rcs-revision 1.34)
+\pgfnodeparttextbox=\box40
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2013/07/31  (rcs-revision 1.12)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.0 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen170
+\pgf@nodesepend=\dimen171
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.0 (rcs-revision 1.1)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.0 (rcs-revision 1.25)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen172
+\pgffor@skip=\dimen173
+\pgffor@stack=\toks33
+\pgffor@toks=\toks34
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2013/12/13 v3.0.0 (rcs-revision 1.142)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.0 (rcs-revision 1.20)
+\pgf@plot@mark@count=\count130
+\pgfplotmarksize=\dimen174
+)
+\tikz@lastx=\dimen175
+\tikz@lasty=\dimen176
+\tikz@lastxsaved=\dimen177
+\tikz@lastysaved=\dimen178
+\tikzleveldistance=\dimen179
+\tikzsiblingdistance=\dimen180
+\tikz@figbox=\box41
+\tikz@figbox@bg=\box42
+\tikz@tempbox=\box43
+\tikz@tempbox@bg=\box44
+\tikztreelevel=\count131
+\tikznumberofchildren=\count132
+\tikznumberofcurrentchild=\count133
+\tikz@fig@count=\count134
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count135
+\pgfmatrixcurrentcolumn=\count136
+\pgf@matrix@numberofcolumns=\count137
+)
+\tikz@expandcount=\count138
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.0 (rcs-revision 1.2)
+))) (./erti_gji.aux
+
+LaTeX Warning: Label `eq:ObjectivefunctionPP' multiply defined.
+
+)
+\openout1 = `erti_gji.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 14.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+\c@lstlisting=\count139
+
+(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count140
+\scratchdimen=\dimen181
+\scratchbox=\box45
+\nofMPsegments=\count141
+\nofMParguments=\count142
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count143
+\MPscratchDim=\dimen182
+\MPnumerator=\count144
+\makeMPintoPDFobject=\count145
+\everyMPtoPDFconversion=\toks36
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: Incompatible package detected (regarding \caption).
+(caption)             \caption = macro:->\@ifstar {\GJ@caption \@captype }{\ref
+stepcounter \@captype \@dblarg {\@caption \@captype }}.
+
+
+Package caption Warning: \caption will not be redefined since it's already
+(caption)                redefined by a document class or package which is
+(caption)                unknown to the caption package.
+See the caption package documentation for explanation.
+
+Package caption Info: End \AtBeginDocument code.
+ABD: EveryShipout initializing macros
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 28.
+LaTeX Font Info:    Try loading font information for U+msa on input line 28.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 28.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (4.00963pt too wide) in paragraph at lines 28--28
+[][]  
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
+
+Underfull \vbox (badness 1281) has occurred while \output is active []
+
+
+pdfTeX warning (Object streams): \pdfobjcompresslevel > 0 requires \pdfminorver
+sion > 4. Object streams disabled now.
+[1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
+
+[2]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3]
+[4] [5]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
+[8] [9] [10]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
+Overfull \hbox (2.00642pt too wide) in paragraph at lines 750--759
+\OT1/ptm/m/n/10.95 This work is sup-ported by the Na-tional Nat-u-ral Sci-ence 
+Foun-da-tion of China (NO.41474099, 41674117
+ []
+
+[12]
+Package epstopdf Info: Source file: <Kernel/Combinations/K_MN.eps>
+(epstopdf)                    date: 2017-08-06 20:26:27
+(epstopdf)                    size: 26820 bytes
+(epstopdf)             Output file: <Kernel/Combinations/K_MN-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2017-08-06 21:43:28
+(epstopdf)                    size: 15402 bytes
+(epstopdf)             Command: <repstopdf --outfile=Kernel/Combinations/K_MN-e
+ps-converted-to.pdf Kernel/Combinations/K_MN.eps>
+(epstopdf)             \includegraphics on input line 762.
+Package epstopdf Info: Output file is already uptodate.
+
+<Kernel/Combinations/K_MN-eps-converted-to.pdf, id=59, 419.5675pt x 447.6725pt>
+File: Kernel/Combinations/K_MN-eps-converted-to.pdf Graphic file (type pdf)
+<use Kernel/Combinations/K_MN-eps-converted-to.pdf>
+Package pdftex.def Info: Kernel/Combinations/K_MN-eps-converted-to.pdf used on 
+input line 762.
+(pdftex.def)             Requested size: 221.93149pt x 236.79396pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 766.
+Package epstopdf Info: Source file: <Kernel/1vp.eps>
+(epstopdf)                    date: 2017-08-06 20:26:23
+(epstopdf)                    size: 31278 bytes
+(epstopdf)             Output file: <Kernel/1vp-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-06 21:43:32
+(epstopdf)                    size: 21696 bytes
+(epstopdf)             Command: <repstopdf --outfile=Kernel/1vp-eps-converted-t
+o.pdf Kernel/1vp.eps>
+(epstopdf)             \includegraphics on input line 771.
+Package epstopdf Info: Output file is already uptodate.
+
+<Kernel/1vp-eps-converted-to.pdf, id=60, 339.2675pt x 289.08pt>
+File: Kernel/1vp-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Kernel/1vp-eps-converted-to.pdf>
+Package pdftex.def Info: Kernel/1vp-eps-converted-to.pdf used on input line 771
+.
+(pdftex.def)             Requested size: 199.73698pt x 170.1896pt.
+Package epstopdf Info: Source file: <Kernel/1vs.eps>
+(epstopdf)                    date: 2017-08-06 20:26:29
+(epstopdf)                    size: 31124 bytes
+(epstopdf)             Output file: <Kernel/1vs-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-06 21:43:32
+(epstopdf)                    size: 21624 bytes
+(epstopdf)             Command: <repstopdf --outfile=Kernel/1vs-eps-converted-t
+o.pdf Kernel/1vs.eps>
+(epstopdf)             \includegraphics on input line 772.
+Package epstopdf Info: Output file is already uptodate.
+
+<Kernel/1vs-eps-converted-to.pdf, id=61, 339.2675pt x 289.08pt>
+File: Kernel/1vs-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Kernel/1vs-eps-converted-to.pdf>
+Package pdftex.def Info: Kernel/1vs-eps-converted-to.pdf used on input line 772
+.
+(pdftex.def)             Requested size: 199.73698pt x 170.1896pt.
+Package epstopdf Info: Source file: <Kernel/Vponlyvp.eps>
+(epstopdf)                    date: 2017-08-06 20:26:28
+(epstopdf)                    size: 52816 bytes
+(epstopdf)             Output file: <Kernel/Vponlyvp-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-06 21:43:33
+(epstopdf)                    size: 22075 bytes
+(epstopdf)             Command: <repstopdf --outfile=Kernel/Vponlyvp-eps-conver
+ted-to.pdf Kernel/Vponlyvp.eps>
+(epstopdf)             \includegraphics on input line 773.
+Package epstopdf Info: Output file is already uptodate.
+
+<Kernel/Vponlyvp-eps-converted-to.pdf, id=62, 303.1325pt x 303.1325pt>
+File: Kernel/Vponlyvp-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Kernel/Vponlyvp-eps-converted-to.pdf>
+Package pdftex.def Info: Kernel/Vponlyvp-eps-converted-to.pdf used on input lin
+e 773.
+(pdftex.def)             Requested size: 199.73698pt x 199.73965pt.
+Package epstopdf Info: Source file: <Kernel/Vsonlyvp.eps>
+(epstopdf)                    date: 2017-08-06 20:26:29
+(epstopdf)                    size: 52269 bytes
+(epstopdf)             Output file: <Kernel/Vsonlyvp-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-06 21:43:33
+(epstopdf)                    size: 21703 bytes
+(epstopdf)             Command: <repstopdf --outfile=Kernel/Vsonlyvp-eps-conver
+ted-to.pdf Kernel/Vsonlyvp.eps>
+(epstopdf)             \includegraphics on input line 774.
+Package epstopdf Info: Output file is already uptodate.
+
+<Kernel/Vsonlyvp-eps-converted-to.pdf, id=63, 303.1325pt x 303.1325pt>
+File: Kernel/Vsonlyvp-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Kernel/Vsonlyvp-eps-converted-to.pdf>
+Package pdftex.def Info: Kernel/Vsonlyvp-eps-converted-to.pdf used on input lin
+e 774.
+(pdftex.def)             Requested size: 199.73698pt x 199.73965pt.
+Package epstopdf Info: Source file: <Kernel/2vp.eps>
+(epstopdf)                    date: 2017-08-06 20:26:23
+(epstopdf)                    size: 31124 bytes
+(epstopdf)             Output file: <Kernel/2vp-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-06 21:43:33
+(epstopdf)                    size: 21688 bytes
+(epstopdf)             Command: <repstopdf --outfile=Kernel/2vp-eps-converted-t
+o.pdf Kernel/2vp.eps>
+(epstopdf)             \includegraphics on input line 781.
+Package epstopdf Info: Output file is already uptodate.
+
+<Kernel/2vp-eps-converted-to.pdf, id=64, 339.2675pt x 289.08pt>
+File: Kernel/2vp-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Kernel/2vp-eps-converted-to.pdf>
+Package pdftex.def Info: Kernel/2vp-eps-converted-to.pdf used on input line 781
+.
+(pdftex.def)             Requested size: 199.73698pt x 170.1896pt.
+Package epstopdf Info: Source file: <Kernel/2vs.eps>
+(epstopdf)                    date: 2017-08-06 20:26:29
+(epstopdf)                    size: 31278 bytes
+(epstopdf)             Output file: <Kernel/2vs-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-06 21:43:34
+(epstopdf)                    size: 21634 bytes
+(epstopdf)             Command: <repstopdf --outfile=Kernel/2vs-eps-converted-t
+o.pdf Kernel/2vs.eps>
+(epstopdf)             \includegraphics on input line 782.
+Package epstopdf Info: Output file is already uptodate.
+
+<Kernel/2vs-eps-converted-to.pdf, id=65, 339.2675pt x 289.08pt>
+File: Kernel/2vs-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Kernel/2vs-eps-converted-to.pdf>
+Package pdftex.def Info: Kernel/2vs-eps-converted-to.pdf used on input line 782
+.
+(pdftex.def)             Requested size: 199.73698pt x 170.1896pt.
+Package epstopdf Info: Source file: <Kernel/Vponlyvs.eps>
+(epstopdf)                    date: 2017-08-06 20:26:29
+(epstopdf)                    size: 52763 bytes
+(epstopdf)             Output file: <Kernel/Vponlyvs-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-06 21:43:34
+(epstopdf)                    size: 25731 bytes
+(epstopdf)             Command: <repstopdf --outfile=Kernel/Vponlyvs-eps-conver
+ted-to.pdf Kernel/Vponlyvs.eps>
+(epstopdf)             \includegraphics on input line 783.
+Package epstopdf Info: Output file is already uptodate.
+
+<Kernel/Vponlyvs-eps-converted-to.pdf, id=66, 303.1325pt x 303.1325pt>
+File: Kernel/Vponlyvs-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Kernel/Vponlyvs-eps-converted-to.pdf>
+Package pdftex.def Info: Kernel/Vponlyvs-eps-converted-to.pdf used on input lin
+e 783.
+(pdftex.def)             Requested size: 199.73698pt x 199.73965pt.
+Package epstopdf Info: Source file: <Kernel/Vsonlyvs.eps>
+(epstopdf)                    date: 2017-08-06 20:26:23
+(epstopdf)                    size: 52192 bytes
+(epstopdf)             Output file: <Kernel/Vsonlyvs-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-06 21:43:34
+(epstopdf)                    size: 27770 bytes
+(epstopdf)             Command: <repstopdf --outfile=Kernel/Vsonlyvs-eps-conver
+ted-to.pdf Kernel/Vsonlyvs.eps>
+(epstopdf)             \includegraphics on input line 784.
+Package epstopdf Info: Output file is already uptodate.
+
+<Kernel/Vsonlyvs-eps-converted-to.pdf, id=67, 303.1325pt x 303.1325pt>
+File: Kernel/Vsonlyvs-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Kernel/Vsonlyvs-eps-converted-to.pdf>
+Package pdftex.def Info: Kernel/Vsonlyvs-eps-converted-to.pdf used on input lin
+e 784.
+(pdftex.def)             Requested size: 199.73698pt x 199.73965pt.
+Package epstopdf Info: Source file: <Kernel/VsonlyvsPP.eps>
+(epstopdf)                    date: 2017-08-06 20:26:23
+(epstopdf)                    size: 52567 bytes
+(epstopdf)             Output file: <Kernel/VsonlyvsPP-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-06 21:43:34
+(epstopdf)                    size: 26813 bytes
+(epstopdf)             Command: <repstopdf --outfile=Kernel/VsonlyvsPP-eps-conv
+erted-to.pdf Kernel/VsonlyvsPP.eps>
+(epstopdf)             \includegraphics on input line 791.
+Package epstopdf Info: Output file is already uptodate.
+
+<Kernel/VsonlyvsPP-eps-converted-to.pdf, id=68, 303.1325pt x 303.1325pt>
+File: Kernel/VsonlyvsPP-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Kernel/VsonlyvsPP-eps-converted-to.pdf>
+Package pdftex.def Info: Kernel/VsonlyvsPP-eps-converted-to.pdf used on input l
+ine 791.
+(pdftex.def)             Requested size: 199.73698pt x 199.73965pt.
+Package epstopdf Info: Source file: <Kernel/VsonlyvsPS.eps>
+(epstopdf)                    date: 2017-08-06 20:26:28
+(epstopdf)                    size: 52575 bytes
+(epstopdf)             Output file: <Kernel/VsonlyvsPS-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-06 21:43:35
+(epstopdf)                    size: 25755 bytes
+(epstopdf)             Command: <repstopdf --outfile=Kernel/VsonlyvsPS-eps-conv
+erted-to.pdf Kernel/VsonlyvsPS.eps>
+(epstopdf)             \includegraphics on input line 792.
+Package epstopdf Info: Output file is already uptodate.
+
+<Kernel/VsonlyvsPS-eps-converted-to.pdf, id=69, 303.1325pt x 303.1325pt>
+File: Kernel/VsonlyvsPS-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Kernel/VsonlyvsPS-eps-converted-to.pdf>
+Package pdftex.def Info: Kernel/VsonlyvsPS-eps-converted-to.pdf used on input l
+ine 792.
+(pdftex.def)             Requested size: 199.73698pt x 199.73965pt.
+Package epstopdf Info: Source file: <Kernel/VsonlyvsSP.eps>
+(epstopdf)                    date: 2017-08-06 20:26:28
+(epstopdf)                    size: 52834 bytes
+(epstopdf)             Output file: <Kernel/VsonlyvsSP-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-06 21:43:35
+(epstopdf)                    size: 22393 bytes
+(epstopdf)             Command: <repstopdf --outfile=Kernel/VsonlyvsSP-eps-conv
+erted-to.pdf Kernel/VsonlyvsSP.eps>
+(epstopdf)             \includegraphics on input line 793.
+Package epstopdf Info: Output file is already uptodate.
+
+<Kernel/VsonlyvsSP-eps-converted-to.pdf, id=70, 303.1325pt x 303.1325pt>
+File: Kernel/VsonlyvsSP-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Kernel/VsonlyvsSP-eps-converted-to.pdf>
+Package pdftex.def Info: Kernel/VsonlyvsSP-eps-converted-to.pdf used on input l
+ine 793.
+(pdftex.def)             Requested size: 199.73698pt x 199.73965pt.
+Package epstopdf Info: Source file: <Kernel/VsonlyvsSS.eps>
+(epstopdf)                    date: 2017-08-06 20:26:28
+(epstopdf)                    size: 52855 bytes
+(epstopdf)             Output file: <Kernel/VsonlyvsSS-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-06 21:43:35
+(epstopdf)                    size: 21096 bytes
+(epstopdf)             Command: <repstopdf --outfile=Kernel/VsonlyvsSS-eps-conv
+erted-to.pdf Kernel/VsonlyvsSS.eps>
+(epstopdf)             \includegraphics on input line 794.
+Package epstopdf Info: Output file is already uptodate.
+
+<Kernel/VsonlyvsSS-eps-converted-to.pdf, id=71, 303.1325pt x 303.1325pt>
+File: Kernel/VsonlyvsSS-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Kernel/VsonlyvsSS-eps-converted-to.pdf>
+Package pdftex.def Info: Kernel/VsonlyvsSS-eps-converted-to.pdf used on input l
+ine 794.
+(pdftex.def)             Requested size: 199.73698pt x 199.73965pt.
+Package epstopdf Info: Source file: <Kernel/Combinations/K_vp.eps>
+(epstopdf)                    date: 2017-08-06 20:26:24
+(epstopdf)                    size: 15958060 bytes
+(epstopdf)             Output file: <Kernel/Combinations/K_vp-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2017-08-06 21:43:41
+(epstopdf)                    size: 802950 bytes
+(epstopdf)             Command: <repstopdf --outfile=Kernel/Combinations/K_vp-e
+ps-converted-to.pdf Kernel/Combinations/K_vp.eps>
+(epstopdf)             \includegraphics on input line 802.
+Package epstopdf Info: Output file is already uptodate.
+
+<Kernel/Combinations/K_vp-eps-converted-to.pdf, id=72, 614.295pt x 744.7825pt>
+File: Kernel/Combinations/K_vp-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Kernel/Combinations/K_vp-eps-converted-to.pdf>
+Package pdftex.def Info: Kernel/Combinations/K_vp-eps-converted-to.pdf used on 
+input line 802.
+(pdftex.def)             Requested size: 355.09174pt x 430.5195pt.
+Package epstopdf Info: Source file: <Kernel/Combinations/K_vs1.eps>
+(epstopdf)                    date: 2017-08-06 20:26:25
+(epstopdf)                    size: 19648158 bytes
+(epstopdf)             Output file: <Kernel/Combinations/K_vs1-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2017-08-06 21:43:48
+(epstopdf)                    size: 936947 bytes
+(epstopdf)             Command: <repstopdf --outfile=Kernel/Combinations/K_vs1-
+eps-converted-to.pdf Kernel/Combinations/K_vs1.eps>
+(epstopdf)             \includegraphics on input line 818.
+Package epstopdf Info: Output file is already uptodate.
+
+<Kernel/Combinations/K_vs1-eps-converted-to.pdf, id=73, 614.295pt x 679.53876pt
+>
+File: Kernel/Combinations/K_vs1-eps-converted-to.pdf Graphic file (type pdf)
+ <use Kernel/Combinations/K_vs1-eps-converted-to.pdf>
+Package pdftex.def Info: Kernel/Combinations/K_vs1-eps-converted-to.pdf used on
+ input line 818.
+(pdftex.def)             Requested size: 443.86299pt x 491.00952pt.
+ [13 <./Kernel/Combinations/K_MN-eps-converted-to.pdf>] [14 <./Kernel/1vp-eps-c
+onverted-to.pdf> <./Kernel/1vs-eps-converted-to.pdf> <./Kernel/Vponlyvp-eps-con
+verted-to.pdf> <./Kernel/Vsonlyvp-eps-converted-to.pdf>] [15 <./Kernel/2vp-eps-
+converted-to.pdf> <./Kernel/2vs-eps-converted-to.pdf> <./Kernel/Vponlyvs-eps-co
+nverted-to.pdf> <./Kernel/Vsonlyvs-eps-converted-to.pdf>] [16 <./Kernel/Vsonlyv
+sPP-eps-converted-to.pdf> <./Kernel/VsonlyvsPS-eps-converted-to.pdf> <./Kernel/
+VsonlyvsSP-eps-converted-to.pdf> <./Kernel/VsonlyvsSS-eps-converted-to.pdf>] [1
+7 <./Kernel/Combinations/K_vp-eps-converted-to.pdf>] [18 <./Kernel/Combinations
+/K_vs1-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Kernel/Combinations/K_vs_recPS.eps>
+(epstopdf)                    date: 2017-08-06 20:26:27
+(epstopdf)                    size: 10629079 bytes
+(epstopdf)             Output file: <Kernel/Combinations/K_vs_recPS-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2017-08-06 21:43:51
+(epstopdf)                    size: 498829 bytes
+(epstopdf)             Command: <repstopdf --outfile=Kernel/Combinations/K_vs_r
+ecPS-eps-converted-to.pdf Kernel/Combinations/K_vs_recPS.eps>
+(epstopdf)             \includegraphics on input line 832.
+Package epstopdf Info: Output file is already uptodate.
+
+<Kernel/Combinations/K_vs_recPS-eps-converted-to.pdf, id=272, 614.295pt x 483.8
+075pt>
+File: Kernel/Combinations/K_vs_recPS-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use Kernel/Combinations/K_vs_recPS-eps-converted-to.pdf>
+Package pdftex.def Info: Kernel/Combinations/K_vs_recPS-eps-converted-to.pdf us
+ed on input line 832.
+(pdftex.def)             Requested size: 443.86299pt x 349.58136pt.
+ [19 <./Kernel/Combinations/K_vs_recPS-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <sigbee2_new/Fig/Truevp.eps>
+(epstopdf)                    date: 2017-08-06 20:26:29
+(epstopdf)                    size: 86537 bytes
+(epstopdf)             Output file: <sigbee2_new/Fig/Truevp-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2017-08-06 21:43:52
+(epstopdf)                    size: 23422 bytes
+(epstopdf)             Command: <repstopdf --outfile=sigbee2_new/Fig/Truevp-eps
+-converted-to.pdf sigbee2_new/Fig/Truevp.eps>
+(epstopdf)             \includegraphics on input line 847.
+Package epstopdf Info: Output file is already uptodate.
+
+<sigbee2_new/Fig/Truevp-eps-converted-to.pdf, id=286, 578.16pt x 289.08pt>
+File: sigbee2_new/Fig/Truevp-eps-converted-to.pdf Graphic file (type pdf)
+
+<use sigbee2_new/Fig/Truevp-eps-converted-to.pdf>
+Package pdftex.def Info: sigbee2_new/Fig/Truevp-eps-converted-to.pdf used on in
+put line 847.
+(pdftex.def)             Requested size: 199.73698pt x 99.86504pt.
+Package epstopdf Info: Source file: <sigbee2_new/Fig/Truevs.eps>
+(epstopdf)                    date: 2017-08-06 20:26:30
+(epstopdf)                    size: 86399 bytes
+(epstopdf)             Output file: <sigbee2_new/Fig/Truevs-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2017-08-06 21:43:52
+(epstopdf)                    size: 23366 bytes
+(epstopdf)             Command: <repstopdf --outfile=sigbee2_new/Fig/Truevs-eps
+-converted-to.pdf sigbee2_new/Fig/Truevs.eps>
+(epstopdf)             \includegraphics on input line 848.
+Package epstopdf Info: Output file is already uptodate.
+
+<sigbee2_new/Fig/Truevs-eps-converted-to.pdf, id=287, 578.16pt x 289.08pt>
+File: sigbee2_new/Fig/Truevs-eps-converted-to.pdf Graphic file (type pdf)
+
+<use sigbee2_new/Fig/Truevs-eps-converted-to.pdf>
+Package pdftex.def Info: sigbee2_new/Fig/Truevs-eps-converted-to.pdf used on in
+put line 848.
+(pdftex.def)             Requested size: 199.73698pt x 99.86504pt.
+Package epstopdf Info: Source file: <sigbee2_new/Fig/Initvp.eps>
+(epstopdf)                    date: 2017-08-06 20:26:29
+(epstopdf)                    size: 85889 bytes
+(epstopdf)             Output file: <sigbee2_new/Fig/Initvp-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2017-08-06 21:43:52
+(epstopdf)                    size: 19696 bytes
+(epstopdf)             Command: <repstopdf --outfile=sigbee2_new/Fig/Initvp-eps
+-converted-to.pdf sigbee2_new/Fig/Initvp.eps>
+(epstopdf)             \includegraphics on input line 849.
+Package epstopdf Info: Output file is already uptodate.
+
+<sigbee2_new/Fig/Initvp-eps-converted-to.pdf, id=288, 578.16pt x 289.08pt>
+File: sigbee2_new/Fig/Initvp-eps-converted-to.pdf Graphic file (type pdf)
+
+<use sigbee2_new/Fig/Initvp-eps-converted-to.pdf>
+Package pdftex.def Info: sigbee2_new/Fig/Initvp-eps-converted-to.pdf used on in
+put line 849.
+(pdftex.def)             Requested size: 199.73698pt x 99.86504pt.
+Package epstopdf Info: Source file: <sigbee2_new/Fig/Initvs.eps>
+(epstopdf)                    date: 2017-08-06 20:26:33
+(epstopdf)                    size: 86399 bytes
+(epstopdf)             Output file: <sigbee2_new/Fig/Initvs-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2017-08-06 21:43:53
+(epstopdf)                    size: 19673 bytes
+(epstopdf)             Command: <repstopdf --outfile=sigbee2_new/Fig/Initvs-eps
+-converted-to.pdf sigbee2_new/Fig/Initvs.eps>
+(epstopdf)             \includegraphics on input line 850.
+Package epstopdf Info: Output file is already uptodate.
+
+<sigbee2_new/Fig/Initvs-eps-converted-to.pdf, id=289, 578.16pt x 289.08pt>
+File: sigbee2_new/Fig/Initvs-eps-converted-to.pdf Graphic file (type pdf)
+
+<use sigbee2_new/Fig/Initvs-eps-converted-to.pdf>
+Package pdftex.def Info: sigbee2_new/Fig/Initvs-eps-converted-to.pdf used on in
+put line 850.
+(pdftex.def)             Requested size: 199.73698pt x 99.86504pt.
+ [20 <./sigbee2_new/Fig/Truevp-eps-converted-to.pdf> <./sigbee2_new/Fig/Truevs-
+eps-converted-to.pdf> <./sigbee2_new/Fig/Initvp-eps-converted-to.pdf> <./sigbee
+2_new/Fig/Initvs-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <sigbee2_new/Fig/imageInitialvp.eps>
+(epstopdf)                    date: 2017-08-06 20:26:33
+(epstopdf)                    size: 82574 bytes
+(epstopdf)             Output file: <sigbee2_new/Fig/imageInitialvp-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2017-08-06 21:43:53
+(epstopdf)                    size: 24541 bytes
+(epstopdf)             Command: <repstopdf --outfile=sigbee2_new/Fig/imageIniti
+alvp-eps-converted-to.pdf sigbee2_new/Fig/imageInitialvp.eps>
+(epstopdf)             \includegraphics on input line 860.
+Package epstopdf Info: Output file is already uptodate.
+
+<sigbee2_new/Fig/imageInitialvp-eps-converted-to.pdf, id=321, 578.16pt x 289.08
+pt>
+File: sigbee2_new/Fig/imageInitialvp-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use sigbee2_new/Fig/imageInitialvp-eps-converted-to.pdf>
+Package pdftex.def Info: sigbee2_new/Fig/imageInitialvp-eps-converted-to.pdf us
+ed on input line 860.
+(pdftex.def)             Requested size: 199.73698pt x 99.86504pt.
+Package epstopdf Info: Source file: <sigbee2_new/Fig/imageInitialvs.eps>
+(epstopdf)                    date: 2017-08-06 20:26:32
+(epstopdf)                    size: 82574 bytes
+(epstopdf)             Output file: <sigbee2_new/Fig/imageInitialvs-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2017-08-06 21:43:54
+(epstopdf)                    size: 22588 bytes
+(epstopdf)             Command: <repstopdf --outfile=sigbee2_new/Fig/imageIniti
+alvs-eps-converted-to.pdf sigbee2_new/Fig/imageInitialvs.eps>
+(epstopdf)             \includegraphics on input line 861.
+Package epstopdf Info: Output file is already uptodate.
+
+<sigbee2_new/Fig/imageInitialvs-eps-converted-to.pdf, id=322, 578.16pt x 289.08
+pt>
+File: sigbee2_new/Fig/imageInitialvs-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use sigbee2_new/Fig/imageInitialvs-eps-converted-to.pdf>
+Package pdftex.def Info: sigbee2_new/Fig/imageInitialvs-eps-converted-to.pdf us
+ed on input line 861.
+(pdftex.def)             Requested size: 199.73698pt x 99.86504pt.
+Package epstopdf Info: Source file: <sigbee2_new/Fig/badinitvp.eps>
+(epstopdf)                    date: 2017-08-06 21:37:11
+(epstopdf)                    size: 83837 bytes
+(epstopdf)             Output file: <sigbee2_new/Fig/badinitvp-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2017-08-06 21:43:54
+(epstopdf)                    size: 33088 bytes
+(epstopdf)             Command: <repstopdf --outfile=sigbee2_new/Fig/badinitvp-
+eps-converted-to.pdf sigbee2_new/Fig/badinitvp.eps>
+(epstopdf)             \includegraphics on input line 862.
+Package epstopdf Info: Output file is already uptodate.
+
+<sigbee2_new/Fig/badinitvp-eps-converted-to.pdf, id=323, 578.16pt x 289.08pt>
+File: sigbee2_new/Fig/badinitvp-eps-converted-to.pdf Graphic file (type pdf)
+
+<use sigbee2_new/Fig/badinitvp-eps-converted-to.pdf>
+Package pdftex.def Info: sigbee2_new/Fig/badinitvp-eps-converted-to.pdf used on
+ input line 862.
+(pdftex.def)             Requested size: 199.73698pt x 99.86504pt.
+Package epstopdf Info: Source file: <sigbee2_new/Fig/badinitvs.eps>
+(epstopdf)                    date: 2017-08-06 21:37:11
+(epstopdf)                    size: 85328 bytes
+(epstopdf)             Output file: <sigbee2_new/Fig/badinitvs-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2017-08-06 21:43:54
+(epstopdf)                    size: 37763 bytes
+(epstopdf)             Command: <repstopdf --outfile=sigbee2_new/Fig/badinitvs-
+eps-converted-to.pdf sigbee2_new/Fig/badinitvs.eps>
+(epstopdf)             \includegraphics on input line 863.
+Package epstopdf Info: Output file is already uptodate.
+
+<sigbee2_new/Fig/badinitvs-eps-converted-to.pdf, id=324, 578.16pt x 289.08pt>
+File: sigbee2_new/Fig/badinitvs-eps-converted-to.pdf Graphic file (type pdf)
+
+<use sigbee2_new/Fig/badinitvs-eps-converted-to.pdf>
+Package pdftex.def Info: sigbee2_new/Fig/badinitvs-eps-converted-to.pdf used on
+ input line 863.
+(pdftex.def)             Requested size: 199.73698pt x 99.86504pt.
+ [21 <./sigbee2_new/Fig/imageInitialvp-eps-converted-to.pdf> <./sigbee2_new/Fig
+/imageInitialvs-eps-converted-to.pdf> <./sigbee2_new/Fig/badinitvp-eps-converte
+d-to.pdf> <./sigbee2_new/Fig/badinitvs-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <sigbee2_new/Fig/RTIvp.eps>
+(epstopdf)                    date: 2017-08-06 20:26:30
+(epstopdf)                    size: 86514 bytes
+(epstopdf)             Output file: <sigbee2_new/Fig/RTIvp-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-08-06 21:43:55
+(epstopdf)                    size: 25469 bytes
+(epstopdf)             Command: <repstopdf --outfile=sigbee2_new/Fig/RTIvp-eps-
+converted-to.pdf sigbee2_new/Fig/RTIvp.eps>
+(epstopdf)             \includegraphics on input line 872.
+Package epstopdf Info: Output file is already uptodate.
+
+<sigbee2_new/Fig/RTIvp-eps-converted-to.pdf, id=354, 578.16pt x 289.08pt>
+File: sigbee2_new/Fig/RTIvp-eps-converted-to.pdf Graphic file (type pdf)
+
+<use sigbee2_new/Fig/RTIvp-eps-converted-to.pdf>
+Package pdftex.def Info: sigbee2_new/Fig/RTIvp-eps-converted-to.pdf used on inp
+ut line 872.
+(pdftex.def)             Requested size: 199.73698pt x 99.86504pt.
+Package epstopdf Info: Source file: <sigbee2_new/Fig/RTIvs.eps>
+(epstopdf)                    date: 2017-08-06 20:26:29
+(epstopdf)                    size: 86397 bytes
+(epstopdf)             Output file: <sigbee2_new/Fig/RTIvs-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-08-06 21:43:55
+(epstopdf)                    size: 26570 bytes
+(epstopdf)             Command: <repstopdf --outfile=sigbee2_new/Fig/RTIvs-eps-
+converted-to.pdf sigbee2_new/Fig/RTIvs.eps>
+(epstopdf)             \includegraphics on input line 873.
+Package epstopdf Info: Output file is already uptodate.
+
+<sigbee2_new/Fig/RTIvs-eps-converted-to.pdf, id=355, 578.16pt x 289.08pt>
+File: sigbee2_new/Fig/RTIvs-eps-converted-to.pdf Graphic file (type pdf)
+
+<use sigbee2_new/Fig/RTIvs-eps-converted-to.pdf>
+Package pdftex.def Info: sigbee2_new/Fig/RTIvs-eps-converted-to.pdf used on inp
+ut line 873.
+(pdftex.def)             Requested size: 199.73698pt x 99.86504pt.
+ [22 <./sigbee2_new/Fig/RTIvp-eps-converted-to.pdf> <./sigbee2_new/Fig/RTIvs-ep
+s-converted-to.pdf>]
+Package epstopdf Info: Source file: <sigbee2/NoLSF_Gra_vp.eps>
+(epstopdf)                    date: 2017-08-06 20:26:34
+(epstopdf)                    size: 78692 bytes
+(epstopdf)             Output file: <sigbee2/NoLSF_Gra_vp-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-08-06 21:44:10
+(epstopdf)                    size: 20743 bytes
+(epstopdf)             Command: <repstopdf --outfile=sigbee2/NoLSF_Gra_vp-eps-c
+onverted-to.pdf sigbee2/NoLSF_Gra_vp.eps>
+(epstopdf)             \includegraphics on input line 880.
+Package epstopdf Info: Output file is already uptodate.
+
+<sigbee2/NoLSF_Gra_vp-eps-converted-to.pdf, id=373, 578.16pt x 289.08pt>
+File: sigbee2/NoLSF_Gra_vp-eps-converted-to.pdf Graphic file (type pdf)
+
+<use sigbee2/NoLSF_Gra_vp-eps-converted-to.pdf>
+Package pdftex.def Info: sigbee2/NoLSF_Gra_vp-eps-converted-to.pdf used on inpu
+t line 880.
+(pdftex.def)             Requested size: 199.73698pt x 99.86504pt.
+Package epstopdf Info: Source file: <sigbee2/LSF_Gra_vp.eps>
+(epstopdf)                    date: 2017-08-06 20:26:34
+(epstopdf)                    size: 79264 bytes
+(epstopdf)             Output file: <sigbee2/LSF_Gra_vp-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-06 21:44:09
+(epstopdf)                    size: 17284 bytes
+(epstopdf)             Command: <repstopdf --outfile=sigbee2/LSF_Gra_vp-eps-con
+verted-to.pdf sigbee2/LSF_Gra_vp.eps>
+(epstopdf)             \includegraphics on input line 881.
+Package epstopdf Info: Output file is already uptodate.
+
+<sigbee2/LSF_Gra_vp-eps-converted-to.pdf, id=374, 578.16pt x 289.08pt>
+File: sigbee2/LSF_Gra_vp-eps-converted-to.pdf Graphic file (type pdf)
+
+<use sigbee2/LSF_Gra_vp-eps-converted-to.pdf>
+Package pdftex.def Info: sigbee2/LSF_Gra_vp-eps-converted-to.pdf used on input 
+line 881.
+(pdftex.def)             Requested size: 199.73698pt x 99.86504pt.
+ [23 <./sigbee2/NoLSF_Gra_vp-eps-converted-to.pdf> <./sigbee2/LSF_Gra_vp-eps-co
+nverted-to.pdf>]
+Package epstopdf Info: Source file: <sigbee2_new/Fig/imageTRUEvp.eps>
+(epstopdf)                    date: 2017-08-06 20:26:34
+(epstopdf)                    size: 82568 bytes
+(epstopdf)             Output file: <sigbee2_new/Fig/imageTRUEvp-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2017-08-06 21:43:55
+(epstopdf)                    size: 22543 bytes
+(epstopdf)             Command: <repstopdf --outfile=sigbee2_new/Fig/imageTRUEv
+p-eps-converted-to.pdf sigbee2_new/Fig/imageTRUEvp.eps>
+(epstopdf)             \includegraphics on input line 891.
+Package epstopdf Info: Output file is already uptodate.
+
+<sigbee2_new/Fig/imageTRUEvp-eps-converted-to.pdf, id=392, 578.16pt x 289.08pt>
+File: sigbee2_new/Fig/imageTRUEvp-eps-converted-to.pdf Graphic file (type pdf)
+<use sigbee2_new/Fig/imageTRUEvp-eps-converted-to.pdf>
+Package pdftex.def Info: sigbee2_new/Fig/imageTRUEvp-eps-converted-to.pdf used 
+on input line 891.
+(pdftex.def)             Requested size: 199.73698pt x 99.86504pt.
+Package epstopdf Info: Source file: <sigbee2_new/Fig/imageTRUEvs.eps>
+(epstopdf)                    date: 2017-08-06 20:26:32
+(epstopdf)                    size: 82568 bytes
+(epstopdf)             Output file: <sigbee2_new/Fig/imageTRUEvs-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2017-08-06 21:43:55
+(epstopdf)                    size: 24391 bytes
+(epstopdf)             Command: <repstopdf --outfile=sigbee2_new/Fig/imageTRUEv
+s-eps-converted-to.pdf sigbee2_new/Fig/imageTRUEvs.eps>
+(epstopdf)             \includegraphics on input line 892.
+Package epstopdf Info: Output file is already uptodate.
+
+<sigbee2_new/Fig/imageTRUEvs-eps-converted-to.pdf, id=393, 578.16pt x 289.08pt>
+File: sigbee2_new/Fig/imageTRUEvs-eps-converted-to.pdf Graphic file (type pdf)
+<use sigbee2_new/Fig/imageTRUEvs-eps-converted-to.pdf>
+Package pdftex.def Info: sigbee2_new/Fig/imageTRUEvs-eps-converted-to.pdf used 
+on input line 892.
+(pdftex.def)             Requested size: 199.73698pt x 99.86504pt.
+Package epstopdf Info: Source file: <sigbee2_new/Fig/imageRTIvp.eps>
+(epstopdf)                    date: 2017-08-06 20:26:30
+(epstopdf)                    size: 82566 bytes
+(epstopdf)             Output file: <sigbee2_new/Fig/imageRTIvp-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2017-08-06 21:43:57
+(epstopdf)                    size: 19067 bytes
+(epstopdf)             Command: <repstopdf --outfile=sigbee2_new/Fig/imageRTIvp
+-eps-converted-to.pdf sigbee2_new/Fig/imageRTIvp.eps>
+(epstopdf)             \includegraphics on input line 893.
+Package epstopdf Info: Output file is already uptodate.
+
+<sigbee2_new/Fig/imageRTIvp-eps-converted-to.pdf, id=394, 578.16pt x 289.08pt>
+File: sigbee2_new/Fig/imageRTIvp-eps-converted-to.pdf Graphic file (type pdf)
+
+<use sigbee2_new/Fig/imageRTIvp-eps-converted-to.pdf>
+Package pdftex.def Info: sigbee2_new/Fig/imageRTIvp-eps-converted-to.pdf used o
+n input line 893.
+(pdftex.def)             Requested size: 199.73698pt x 99.86504pt.
+Package epstopdf Info: Source file: <sigbee2_new/Fig/imageRTIvs.eps>
+(epstopdf)                    date: 2017-08-06 20:26:34
+(epstopdf)                    size: 82566 bytes
+(epstopdf)             Output file: <sigbee2_new/Fig/imageRTIvs-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2017-08-06 21:43:57
+(epstopdf)                    size: 22874 bytes
+(epstopdf)             Command: <repstopdf --outfile=sigbee2_new/Fig/imageRTIvs
+-eps-converted-to.pdf sigbee2_new/Fig/imageRTIvs.eps>
+(epstopdf)             \includegraphics on input line 894.
+Package epstopdf Info: Output file is already uptodate.
+
+<sigbee2_new/Fig/imageRTIvs-eps-converted-to.pdf, id=395, 578.16pt x 289.08pt>
+File: sigbee2_new/Fig/imageRTIvs-eps-converted-to.pdf Graphic file (type pdf)
+
+<use sigbee2_new/Fig/imageRTIvs-eps-converted-to.pdf>
+Package pdftex.def Info: sigbee2_new/Fig/imageRTIvs-eps-converted-to.pdf used o
+n input line 894.
+(pdftex.def)             Requested size: 199.73698pt x 99.86504pt.
+Missing character: There is no Ô in font ptmr7t!
+Missing character: There is no º in font ptmr7t!
+Missing character: There is no õ in font ptmr7t!
+Missing character: There is no Ô in font ptmr7t!
+Missing character: There is no º in font ptmr7t!
+Missing character: There is no õ in font ptmr7t!
+Package epstopdf Info: Source file: <sigbee2/Fig/DataPP_true.eps>
+(epstopdf)                    date: 2017-08-06 20:26:39
+(epstopdf)                    size: 1236152 bytes
+(epstopdf)             Output file: <sigbee2/Fig/DataPP_true-eps-converted-to.p
+df>
+(epstopdf)                    date: 2017-08-06 21:44:00
+(epstopdf)                    size: 142992 bytes
+(epstopdf)             Command: <repstopdf --outfile=sigbee2/Fig/DataPP_true-ep
+s-converted-to.pdf sigbee2/Fig/DataPP_true.eps>
+(epstopdf)             \includegraphics on input line 902.
+Package epstopdf Info: Output file is already uptodate.
+
+<sigbee2/Fig/DataPP_true-eps-converted-to.pdf, id=396, 289.08pt x 433.62pt>
+File: sigbee2/Fig/DataPP_true-eps-converted-to.pdf Graphic file (type pdf)
+
+<use sigbee2/Fig/DataPP_true-eps-converted-to.pdf>
+Package pdftex.def Info: sigbee2/Fig/DataPP_true-eps-converted-to.pdf used on i
+nput line 902.
+(pdftex.def)             Requested size: 133.16025pt x 199.73889pt.
+Package epstopdf Info: Source file: <sigbee2/Fig/DataPP_init.eps>
+(epstopdf)                    date: 2017-08-06 20:26:39
+(epstopdf)                    size: 1236290 bytes
+(epstopdf)             Output file: <sigbee2/Fig/DataPP_init-eps-converted-to.p
+df>
+(epstopdf)                    date: 2017-08-06 21:44:01
+(epstopdf)                    size: 131726 bytes
+(epstopdf)             Command: <repstopdf --outfile=sigbee2/Fig/DataPP_init-ep
+s-converted-to.pdf sigbee2/Fig/DataPP_init.eps>
+(epstopdf)             \includegraphics on input line 903.
+Package epstopdf Info: Output file is already uptodate.
+
+<sigbee2/Fig/DataPP_init-eps-converted-to.pdf, id=397, 289.08pt x 433.62pt>
+File: sigbee2/Fig/DataPP_init-eps-converted-to.pdf Graphic file (type pdf)
+
+<use sigbee2/Fig/DataPP_init-eps-converted-to.pdf>
+Package pdftex.def Info: sigbee2/Fig/DataPP_init-eps-converted-to.pdf used on i
+nput line 903.
+(pdftex.def)             Requested size: 133.16025pt x 199.73889pt.
+Package epstopdf Info: Source file: <sigbee2/Fig/DataPP_werti.eps>
+(epstopdf)                    date: 2017-08-06 20:26:38
+(epstopdf)                    size: 1236109 bytes
+(epstopdf)             Output file: <sigbee2/Fig/DataPP_werti-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2017-08-06 21:44:03
+(epstopdf)                    size: 126688 bytes
+(epstopdf)             Command: <repstopdf --outfile=sigbee2/Fig/DataPP_werti-e
+ps-converted-to.pdf sigbee2/Fig/DataPP_werti.eps>
+(epstopdf)             \includegraphics on input line 904.
+Package epstopdf Info: Output file is already uptodate.
+
+<sigbee2/Fig/DataPP_werti-eps-converted-to.pdf, id=398, 289.08pt x 433.62pt>
+File: sigbee2/Fig/DataPP_werti-eps-converted-to.pdf Graphic file (type pdf)
+
+<use sigbee2/Fig/DataPP_werti-eps-converted-to.pdf>
+Package pdftex.def Info: sigbee2/Fig/DataPP_werti-eps-converted-to.pdf used on 
+input line 904.
+(pdftex.def)             Requested size: 133.16025pt x 199.73889pt.
+Package epstopdf Info: Source file: <sigbee2/Fig/DataPS_true.eps>
+(epstopdf)                    date: 2017-08-06 20:26:39
+(epstopdf)                    size: 1236484 bytes
+(epstopdf)             Output file: <sigbee2/Fig/DataPS_true-eps-converted-to.p
+df>
+(epstopdf)                    date: 2017-08-06 21:44:04
+(epstopdf)                    size: 191198 bytes
+(epstopdf)             Command: <repstopdf --outfile=sigbee2/Fig/DataPS_true-ep
+s-converted-to.pdf sigbee2/Fig/DataPS_true.eps>
+(epstopdf)             \includegraphics on input line 905.
+Package epstopdf Info: Output file is already uptodate.
+
+<sigbee2/Fig/DataPS_true-eps-converted-to.pdf, id=399, 289.08pt x 433.62pt>
+File: sigbee2/Fig/DataPS_true-eps-converted-to.pdf Graphic file (type pdf)
+
+<use sigbee2/Fig/DataPS_true-eps-converted-to.pdf>
+Package pdftex.def Info: sigbee2/Fig/DataPS_true-eps-converted-to.pdf used on i
+nput line 905.
+(pdftex.def)             Requested size: 133.16025pt x 199.73889pt.
+Package epstopdf Info: Source file: <sigbee2/Fig/DataPS_init.eps>
+(epstopdf)                    date: 2017-08-06 20:26:36
+(epstopdf)                    size: 1236448 bytes
+(epstopdf)             Output file: <sigbee2/Fig/DataPS_init-eps-converted-to.p
+df>
+(epstopdf)                    date: 2017-08-06 21:44:06
+(epstopdf)                    size: 145426 bytes
+(epstopdf)             Command: <repstopdf --outfile=sigbee2/Fig/DataPS_init-ep
+s-converted-to.pdf sigbee2/Fig/DataPS_init.eps>
+(epstopdf)             \includegraphics on input line 906.
+Package epstopdf Info: Output file is already uptodate.
+
+<sigbee2/Fig/DataPS_init-eps-converted-to.pdf, id=400, 289.08pt x 433.62pt>
+File: sigbee2/Fig/DataPS_init-eps-converted-to.pdf Graphic file (type pdf)
+
+<use sigbee2/Fig/DataPS_init-eps-converted-to.pdf>
+Package pdftex.def Info: sigbee2/Fig/DataPS_init-eps-converted-to.pdf used on i
+nput line 906.
+(pdftex.def)             Requested size: 133.16025pt x 199.73889pt.
+Package epstopdf Info: Source file: <sigbee2/Fig/DataPS_werti.eps>
+(epstopdf)                    date: 2017-08-06 20:26:36
+(epstopdf)                    size: 1236316 bytes
+(epstopdf)             Output file: <sigbee2/Fig/DataPS_werti-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2017-08-06 21:44:08
+(epstopdf)                    size: 179073 bytes
+(epstopdf)             Command: <repstopdf --outfile=sigbee2/Fig/DataPS_werti-e
+ps-converted-to.pdf sigbee2/Fig/DataPS_werti.eps>
+(epstopdf)             \includegraphics on input line 907.
+Package epstopdf Info: Output file is already uptodate.
+
+<sigbee2/Fig/DataPS_werti-eps-converted-to.pdf, id=401, 289.08pt x 433.62pt>
+File: sigbee2/Fig/DataPS_werti-eps-converted-to.pdf Graphic file (type pdf)
+
+<use sigbee2/Fig/DataPS_werti-eps-converted-to.pdf>
+Package pdftex.def Info: sigbee2/Fig/DataPS_werti-eps-converted-to.pdf used on 
+input line 907.
+(pdftex.def)             Requested size: 133.16025pt x 199.73889pt.
+ [24 <./sigbee2_new/Fig/imageTRUEvp-eps-converted-to.pdf> <./sigbee2_new/Fig/im
+ageTRUEvs-eps-converted-to.pdf> <./sigbee2_new/Fig/imageRTIvp-eps-converted-to.
+pdf> <./sigbee2_new/Fig/imageRTIvs-eps-converted-to.pdf>] [25 <./sigbee2/Fig/Da
+taPP_true-eps-converted-to.pdf> <./sigbee2/Fig/DataPP_init-eps-converted-to.pdf
+> <./sigbee2/Fig/DataPP_werti-eps-converted-to.pdf> <./sigbee2/Fig/DataPS_true-
+eps-converted-to.pdf> <./sigbee2/Fig/DataPS_init-eps-converted-to.pdf> <./sigbe
+e2/Fig/DataPS_werti-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <sigbee2_new/Fig/EFWI_RTIvp.eps>
+(epstopdf)                    date: 2017-08-06 20:26:30
+(epstopdf)                    size: 86545 bytes
+(epstopdf)             Output file: <sigbee2_new/Fig/EFWI_RTIvp-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2017-08-06 21:44:10
+(epstopdf)                    size: 34666 bytes
+(epstopdf)             Command: <repstopdf --outfile=sigbee2_new/Fig/EFWI_RTIvp
+-eps-converted-to.pdf sigbee2_new/Fig/EFWI_RTIvp.eps>
+(epstopdf)             \includegraphics on input line 920.
+Package epstopdf Info: Output file is already uptodate.
+
+<sigbee2_new/Fig/EFWI_RTIvp-eps-converted-to.pdf, id=469, 578.16pt x 289.08pt>
+File: sigbee2_new/Fig/EFWI_RTIvp-eps-converted-to.pdf Graphic file (type pdf)
+
+<use sigbee2_new/Fig/EFWI_RTIvp-eps-converted-to.pdf>
+Package pdftex.def Info: sigbee2_new/Fig/EFWI_RTIvp-eps-converted-to.pdf used o
+n input line 920.
+(pdftex.def)             Requested size: 199.73698pt x 99.86504pt.
+Package epstopdf Info: Source file: <sigbee2_new/Fig/EFWI_RTIvs.eps>
+(epstopdf)                    date: 2017-08-06 20:26:34
+(epstopdf)                    size: 86407 bytes
+(epstopdf)             Output file: <sigbee2_new/Fig/EFWI_RTIvs-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2017-08-06 21:44:11
+(epstopdf)                    size: 37505 bytes
+(epstopdf)             Command: <repstopdf --outfile=sigbee2_new/Fig/EFWI_RTIvs
+-eps-converted-to.pdf sigbee2_new/Fig/EFWI_RTIvs.eps>
+(epstopdf)             \includegraphics on input line 921.
+Package epstopdf Info: Output file is already uptodate.
+
+<sigbee2_new/Fig/EFWI_RTIvs-eps-converted-to.pdf, id=470, 578.16pt x 289.08pt>
+File: sigbee2_new/Fig/EFWI_RTIvs-eps-converted-to.pdf Graphic file (type pdf)
+
+<use sigbee2_new/Fig/EFWI_RTIvs-eps-converted-to.pdf>
+Package pdftex.def Info: sigbee2_new/Fig/EFWI_RTIvs-eps-converted-to.pdf used o
+n input line 921.
+(pdftex.def)             Requested size: 199.73698pt x 99.86504pt.
+Package epstopdf Info: Source file: <sigbee2_new/Fig/1_5km.eps>
+(epstopdf)                    date: 2017-08-06 20:26:29
+(epstopdf)                    size: 16211 bytes
+(epstopdf)             Output file: <sigbee2_new/Fig/1_5km-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-08-06 21:44:12
+(epstopdf)                    size: 11313 bytes
+(epstopdf)             Command: <repstopdf --outfile=sigbee2_new/Fig/1_5km-eps-
+converted-to.pdf sigbee2_new/Fig/1_5km.eps>
+(epstopdf)             \includegraphics on input line 933.
+Package epstopdf Info: Output file is already uptodate.
+
+<sigbee2_new/Fig/1_5km-eps-converted-to.pdf, id=471, 562.1pt x 378.41376pt>
+File: sigbee2_new/Fig/1_5km-eps-converted-to.pdf Graphic file (type pdf)
+
+<use sigbee2_new/Fig/1_5km-eps-converted-to.pdf>
+Package pdftex.def Info: sigbee2_new/Fig/1_5km-eps-converted-to.pdf used on inp
+ut line 933.
+(pdftex.def)             Requested size: 199.73698pt x 134.46196pt.
+Package epstopdf Info: Source file: <sigbee2_new/Fig/3km.eps>
+(epstopdf)                    date: 2017-08-06 20:26:30
+(epstopdf)                    size: 16204 bytes
+(epstopdf)             Output file: <sigbee2_new/Fig/3km-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-06 21:44:12
+(epstopdf)                    size: 11318 bytes
+(epstopdf)             Command: <repstopdf --outfile=sigbee2_new/Fig/3km-eps-co
+nverted-to.pdf sigbee2_new/Fig/3km.eps>
+(epstopdf)             \includegraphics on input line 934.
+Package epstopdf Info: Output file is already uptodate.
+
+<sigbee2_new/Fig/3km-eps-converted-to.pdf, id=472, 562.1pt x 378.41376pt>
+File: sigbee2_new/Fig/3km-eps-converted-to.pdf Graphic file (type pdf)
+
+<use sigbee2_new/Fig/3km-eps-converted-to.pdf>
+Package pdftex.def Info: sigbee2_new/Fig/3km-eps-converted-to.pdf used on input
+ line 934.
+(pdftex.def)             Requested size: 199.73698pt x 134.46196pt.
+Package epstopdf Info: Source file: <sigbee2_new/Fig/Cut3Hzvp.eps>
+(epstopdf)                    date: 2017-08-06 20:26:30
+(epstopdf)                    size: 86541 bytes
+(epstopdf)             Output file: <sigbee2_new/Fig/Cut3Hzvp-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2017-08-06 21:44:13
+(epstopdf)                    size: 35840 bytes
+(epstopdf)             Command: <repstopdf --outfile=sigbee2_new/Fig/Cut3Hzvp-e
+ps-converted-to.pdf sigbee2_new/Fig/Cut3Hzvp.eps>
+(epstopdf)             \includegraphics on input line 948.
+Package epstopdf Info: Output file is already uptodate.
+
+<sigbee2_new/Fig/Cut3Hzvp-eps-converted-to.pdf, id=473, 578.16pt x 289.08pt>
+File: sigbee2_new/Fig/Cut3Hzvp-eps-converted-to.pdf Graphic file (type pdf)
+
+<use sigbee2_new/Fig/Cut3Hzvp-eps-converted-to.pdf>
+Package pdftex.def Info: sigbee2_new/Fig/Cut3Hzvp-eps-converted-to.pdf used on 
+input line 948.
+(pdftex.def)             Requested size: 199.73698pt x 99.86504pt.
+Package epstopdf Info: Source file: <sigbee2_new/Fig/Cut3Hzvs.eps>
+(epstopdf)                    date: 2017-08-06 20:26:30
+(epstopdf)                    size: 86403 bytes
+(epstopdf)             Output file: <sigbee2_new/Fig/Cut3Hzvs-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2017-08-06 21:44:13
+(epstopdf)                    size: 38172 bytes
+(epstopdf)             Command: <repstopdf --outfile=sigbee2_new/Fig/Cut3Hzvs-e
+ps-converted-to.pdf sigbee2_new/Fig/Cut3Hzvs.eps>
+(epstopdf)             \includegraphics on input line 949.
+Package epstopdf Info: Output file is already uptodate.
+
+<sigbee2_new/Fig/Cut3Hzvs-eps-converted-to.pdf, id=474, 578.16pt x 289.08pt>
+File: sigbee2_new/Fig/Cut3Hzvs-eps-converted-to.pdf Graphic file (type pdf)
+
+<use sigbee2_new/Fig/Cut3Hzvs-eps-converted-to.pdf>
+Package pdftex.def Info: sigbee2_new/Fig/Cut3Hzvs-eps-converted-to.pdf used on 
+input line 949.
+(pdftex.def)             Requested size: 199.73698pt x 99.86504pt.
+Package epstopdf Info: Source file: <sigbee2_new/Fig/Cut5Hzvp.eps>
+(epstopdf)                    date: 2017-08-06 20:26:30
+(epstopdf)                    size: 86541 bytes
+(epstopdf)             Output file: <sigbee2_new/Fig/Cut5Hzvp-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2017-08-06 21:44:14
+(epstopdf)                    size: 35879 bytes
+(epstopdf)             Command: <repstopdf --outfile=sigbee2_new/Fig/Cut5Hzvp-e
+ps-converted-to.pdf sigbee2_new/Fig/Cut5Hzvp.eps>
+(epstopdf)             \includegraphics on input line 950.
+Package epstopdf Info: Output file is already uptodate.
+
+<sigbee2_new/Fig/Cut5Hzvp-eps-converted-to.pdf, id=475, 578.16pt x 289.08pt>
+File: sigbee2_new/Fig/Cut5Hzvp-eps-converted-to.pdf Graphic file (type pdf)
+
+<use sigbee2_new/Fig/Cut5Hzvp-eps-converted-to.pdf>
+Package pdftex.def Info: sigbee2_new/Fig/Cut5Hzvp-eps-converted-to.pdf used on 
+input line 950.
+(pdftex.def)             Requested size: 199.73698pt x 99.86504pt.
+Package epstopdf Info: Source file: <sigbee2_new/Fig/Cut5Hzvs.eps>
+(epstopdf)                    date: 2017-08-06 20:26:32
+(epstopdf)                    size: 86403 bytes
+(epstopdf)             Output file: <sigbee2_new/Fig/Cut5Hzvs-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2017-08-06 21:44:14
+(epstopdf)                    size: 37980 bytes
+(epstopdf)             Command: <repstopdf --outfile=sigbee2_new/Fig/Cut5Hzvs-e
+ps-converted-to.pdf sigbee2_new/Fig/Cut5Hzvs.eps>
+(epstopdf)             \includegraphics on input line 951.
+Package epstopdf Info: Output file is already uptodate.
+
+<sigbee2_new/Fig/Cut5Hzvs-eps-converted-to.pdf, id=476, 578.16pt x 289.08pt>
+File: sigbee2_new/Fig/Cut5Hzvs-eps-converted-to.pdf Graphic file (type pdf)
+
+<use sigbee2_new/Fig/Cut5Hzvs-eps-converted-to.pdf>
+Package pdftex.def Info: sigbee2_new/Fig/Cut5Hzvs-eps-converted-to.pdf used on 
+input line 951.
+(pdftex.def)             Requested size: 199.73698pt x 99.86504pt.
+Package epstopdf Info: Source file: <sigbee2_new/Fig/Cut7Hzvp.eps>
+(epstopdf)                    date: 2017-08-06 20:26:32
+(epstopdf)                    size: 86541 bytes
+(epstopdf)             Output file: <sigbee2_new/Fig/Cut7Hzvp-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2017-08-06 21:44:15
+(epstopdf)                    size: 35760 bytes
+(epstopdf)             Command: <repstopdf --outfile=sigbee2_new/Fig/Cut7Hzvp-e
+ps-converted-to.pdf sigbee2_new/Fig/Cut7Hzvp.eps>
+(epstopdf)             \includegraphics on input line 952.
+Package epstopdf Info: Output file is already uptodate.
+
+<sigbee2_new/Fig/Cut7Hzvp-eps-converted-to.pdf, id=477, 578.16pt x 289.08pt>
+File: sigbee2_new/Fig/Cut7Hzvp-eps-converted-to.pdf Graphic file (type pdf)
+
+<use sigbee2_new/Fig/Cut7Hzvp-eps-converted-to.pdf>
+Package pdftex.def Info: sigbee2_new/Fig/Cut7Hzvp-eps-converted-to.pdf used on 
+input line 952.
+(pdftex.def)             Requested size: 199.73698pt x 99.86504pt.
+Package epstopdf Info: Source file: <sigbee2_new/Fig/Cut7Hzvs.eps>
+(epstopdf)                    date: 2017-08-06 20:26:30
+(epstopdf)                    size: 86403 bytes
+(epstopdf)             Output file: <sigbee2_new/Fig/Cut7Hzvs-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2017-08-06 21:44:16
+(epstopdf)                    size: 37401 bytes
+(epstopdf)             Command: <repstopdf --outfile=sigbee2_new/Fig/Cut7Hzvs-e
+ps-converted-to.pdf sigbee2_new/Fig/Cut7Hzvs.eps>
+(epstopdf)             \includegraphics on input line 953.
+Package epstopdf Info: Output file is already uptodate.
+
+<sigbee2_new/Fig/Cut7Hzvs-eps-converted-to.pdf, id=478, 578.16pt x 289.08pt>
+File: sigbee2_new/Fig/Cut7Hzvs-eps-converted-to.pdf Graphic file (type pdf)
+
+<use sigbee2_new/Fig/Cut7Hzvs-eps-converted-to.pdf>
+Package pdftex.def Info: sigbee2_new/Fig/Cut7Hzvs-eps-converted-to.pdf used on 
+input line 953.
+(pdftex.def)             Requested size: 199.73698pt x 99.86504pt.
+ [26 <./sigbee2_new/Fig/EFWI_RTIvp-eps-converted-to.pdf> <./sigbee2_new/Fig/EFW
+I_RTIvs-eps-converted-to.pdf> <./sigbee2_new/Fig/1_5km-eps-converted-to.pdf> <.
+/sigbee2_new/Fig/3km-eps-converted-to.pdf>] [27 <./sigbee2_new/Fig/Cut3Hzvp-eps
+-converted-to.pdf> <./sigbee2_new/Fig/Cut3Hzvs-eps-converted-to.pdf> <./sigbee2
+_new/Fig/Cut5Hzvp-eps-converted-to.pdf> <./sigbee2_new/Fig/Cut5Hzvs-eps-convert
+ed-to.pdf> <./sigbee2_new/Fig/Cut7Hzvp-eps-converted-to.pdf> <./sigbee2_new/Fig
+/Cut7Hzvs-eps-converted-to.pdf>] (./erti_gji.bbl
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no Ä in font ptmri7t!
+Missing character: There is no ê in font ptmri7t!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [28
+
+
+
+
+
+
+
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [29])
+[30]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31]
+Underfull \vbox (badness 7649) has occurred while \output is active []
+
+ [32]
+Package epstopdf Info: Source file: <Kernel/Combinations/K_vs_src_new.eps>
+(epstopdf)                    date: 2017-08-06 20:26:28
+(epstopdf)                    size: 14296500 bytes
+(epstopdf)             Output file: <Kernel/Combinations/K_vs_src_new-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2017-08-06 21:44:34
+(epstopdf)                    size: 650004 bytes
+(epstopdf)             Command: <repstopdf --outfile=Kernel/Combinations/K_vs_s
+rc_new-eps-converted-to.pdf Kernel/Combinations/K_vs_src_new.eps>
+(epstopdf)             \includegraphics on input line 1206.
+Package epstopdf Info: Output file is already uptodate.
+
+<Kernel/Combinations/K_vs_src_new-eps-converted-to.pdf, id=569, 614.295pt x 592
+.2125pt>
+File: Kernel/Combinations/K_vs_src_new-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use Kernel/Combinations/K_vs_src_new-eps-converted-to.pdf>
+Package pdftex.def Info: Kernel/Combinations/K_vs_src_new-eps-converted-to.pdf 
+used on input line 1206.
+(pdftex.def)             Requested size: 443.86299pt x 427.91078pt.
+Package epstopdf Info: Source file: <Kernel/Combinations/K_vs_recPP_new.eps>
+(epstopdf)                    date: 2017-08-06 20:26:28
+(epstopdf)                    size: 9207196 bytes
+(epstopdf)             Output file: <Kernel/Combinations/K_vs_recPP_new-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2017-08-06 21:44:38
+(epstopdf)                    size: 444137 bytes
+(epstopdf)             Command: <repstopdf --outfile=Kernel/Combinations/K_vs_r
+ecPP_new-eps-converted-to.pdf Kernel/Combinations/K_vs_recPP_new.eps>
+(epstopdf)             \includegraphics on input line 1221.
+Package epstopdf Info: Output file is already uptodate.
+
+<Kernel/Combinations/K_vs_recPP_new-eps-converted-to.pdf, id=570, 614.295pt x 4
+83.8075pt>
+File: Kernel/Combinations/K_vs_recPP_new-eps-converted-to.pdf Graphic file (typ
+e pdf)
+ <use Kernel/Combinations/K_vs_recPP_new-eps-converted-to.pdf>
+Package pdftex.def Info: Kernel/Combinations/K_vs_recPP_new-eps-converted-to.pd
+f used on input line 1221.
+(pdftex.def)             Requested size: 443.86299pt x 349.58136pt.
+
+[33]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [34 <./Kernel/Combinations/K_vs_src_new-eps-converted-to.pdf>]
+Underfull \vbox (badness 5985) has occurred while \output is active []
+
+ [35 <./Kernel/Combinations/K_vs_recPP_new-eps-converted-to.pdf>] [36] [37]
+Package epstopdf Info: Source file: <PS_problem/PS_refl_mapmigration.eps>
+(epstopdf)                    date: 2017-08-09 09:39:56
+(epstopdf)                    size: 16645 bytes
+(epstopdf)             Output file: <PS_problem/PS_refl_mapmigration-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2017-08-09 09:45:36
+(epstopdf)                    size: 9555 bytes
+(epstopdf)             Command: <repstopdf --outfile=PS_problem/PS_refl_mapmigr
+ation-eps-converted-to.pdf PS_problem/PS_refl_mapmigration.eps>
+(epstopdf)             \includegraphics on input line 1339.
+Package epstopdf Info: Output file is already uptodate.
+
+<PS_problem/PS_refl_mapmigration-eps-converted-to.pdf, id=609, 361.35pt x 289.0
+8pt>
+File: PS_problem/PS_refl_mapmigration-eps-converted-to.pdf Graphic file (type p
+df)
+ <use PS_problem/PS_refl_mapmigration-eps-converted-to.pdf>
+Package pdftex.def Info: PS_problem/PS_refl_mapmigration-eps-converted-to.pdf u
+sed on input line 1339.
+(pdftex.def)             Requested size: 177.54248pt x 142.03418pt.
+Package epstopdf Info: Source file: <PS_problem/PS_refl_new.eps>
+(epstopdf)                    date: 2017-08-09 11:09:55
+(epstopdf)                    size: 14765 bytes
+(epstopdf)             Output file: <PS_problem/PS_refl_new-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2017-08-09 11:18:01
+(epstopdf)                    size: 11720 bytes
+(epstopdf)             Command: <repstopdf --outfile=PS_problem/PS_refl_new-eps
+-converted-to.pdf PS_problem/PS_refl_new.eps>
+(epstopdf)             \includegraphics on input line 1347.
+Package epstopdf Info: Output file is already uptodate.
+
+<PS_problem/PS_refl_new-eps-converted-to.pdf, id=610, 394.47375pt x 405.515pt>
+File: PS_problem/PS_refl_new-eps-converted-to.pdf Graphic file (type pdf)
+
+<use PS_problem/PS_refl_new-eps-converted-to.pdf>
+Package pdftex.def Info: PS_problem/PS_refl_new-eps-converted-to.pdf used on in
+put line 1347.
+(pdftex.def)             Requested size: 199.73698pt x 205.32486pt.
+Package epstopdf Info: Source file: <PS_problem/PS_refl_new_zoomin.eps>
+(epstopdf)                    date: 2017-08-09 11:11:08
+(epstopdf)                    size: 10394 bytes
+(epstopdf)             Output file: <PS_problem/PS_refl_new_zoomin-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2017-08-09 11:18:02
+(epstopdf)                    size: 8113 bytes
+(epstopdf)             Command: <repstopdf --outfile=PS_problem/PS_refl_new_zoo
+min-eps-converted-to.pdf PS_problem/PS_refl_new_zoomin.eps>
+(epstopdf)             \includegraphics on input line 1348.
+Package epstopdf Info: Output file is already uptodate.
+
+<PS_problem/PS_refl_new_zoomin-eps-converted-to.pdf, id=611, 401.5pt x 401.5pt>
+File: PS_problem/PS_refl_new_zoomin-eps-converted-to.pdf Graphic file (type pdf
+)
+<use PS_problem/PS_refl_new_zoomin-eps-converted-to.pdf>
+Package pdftex.def Info: PS_problem/PS_refl_new_zoomin-eps-converted-to.pdf use
+d on input line 1348.
+(pdftex.def)             Requested size: 199.73698pt x 199.73865pt.
+ [38 <./PS_problem/PS_refl_mapmigration-eps-converted-to.pdf> <./PS_problem/PS_
+refl_new-eps-converted-to.pdf> <./PS_problem/PS_refl_new_zoomin-eps-converted-t
+o.pdf>] (./erti_gji.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 15286 strings out of 493089
+ 295885 string characters out of 6134848
+ 343965 words of memory out of 5000000
+ 18411 multiletter control sequences out of 15000+600000
+ 36868 words of font info for 90 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,25n,54p,666b,358s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb></usr/local/t
+exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/te
+xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texl
+ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texli
+ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texliv
+e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive
+/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2
+015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/201
+5/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2015/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2015/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/local/texlive/2015/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2015/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2015/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2015/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2015/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2015/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2015/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2015/texmf-dist/fonts/typ
+e1/urw/times/utmb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/tim
+es/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a
+.pfb>
+Output written on erti_gji.pdf (38 pages, 5448624 bytes).
+PDF statistics:
+ 700 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 278 words of extra memory for PDF output out of 10000 (max. 10000000)
+

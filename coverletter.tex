@@ -1,0 +1,36 @@
+Dear Reviewer,
+
+Thank you for being the reviewer of our manuscript. 
+
+This manuscript presents an study on reflection inversion to update the low and
+intermediate wavenumber in the deeper part of elastic model, which can provide good
+initial models for elastic full waveform inversion (EFWI). 
+As we know, the elastic reflection waveform inversion (ERWI)
+can mitigate the nonlinearity to some extent, it is
+still stuck with the cycle-skipping problem due to the objective function of waveform
+fitting. 
+
+Building initial P and S wave velocity models for EFWI through elastic
+wave-equation reflections traveltime inversion (ERTI) would be effective and robust
+since traveltime information relates to the background model more linearly. The wave
+mode decomposition, both on the recording surface and in the underground space, are
+important for ERTI. On the one hand, P/S separation of multicomponent seismograms on
+the surface provides individual P or S wave data residuals. Thus, we implement the
+ERTI using the L<sub>2</sub> norm of the isolated P or S wave traveltime residuals
+extracted by the dynamic image warping (DIW) as objective function. On the other hand,
+the underground spatial wave mode decomposition provides separated wavefields to
+precondition the kernels or gradients. However, the reflection kernels in elastic
+media are complicated and difficult to use, especially when calculating the gradient
+of S-wave velocity. The investigation of reflection kernels show that mode
+decomposition can suppress the artifacts in gradient calculation. Accordingly, a
+two-step inversion strategy is adopted to effectively reduce the nonlinearity of
+inversion, in which PP reflections are first used  to invert P wave velocity,
+followed by S wave velocity inversion with PS reflections based on the well recovered
+P wave velocity. Numerical example of Sigsbee2A model validates the effectiveness of
+the algorithms and strategies for ERTI.
+
+That is the summary of our manuscript. Hope you can give us your valuable comments on
+our work. 
+
+Best regards.
+

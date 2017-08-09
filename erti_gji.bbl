@@ -1,0 +1,258 @@
+\begin{thebibliography}{45}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[Almomin \& Biondi(2012)]{Almomin2012}
+Almomin, A. \& Biondi, B., 2012.
+\newblock Tomographic full waveform inversion: Practical and computationally
+  feasible approach, in {\em {SEG} Technical Program Expanded Abstracts
+  2012\/}, Society of Exploration Geophysicists.
+
+\bibitem[Biondi \& Almomin(2013)]{biondi2013}
+Biondi, B. \& Almomin, A., 2013.
+\newblock Tomographic full-waveform inversion ({TFWI}) by combing {FWI} and
+  wave-equation migration velocity analysis, {\it The Leading Edge\/}, {\bf
+  32}(9), 1074--1080.
+
+\bibitem[Brossier et~al.(2009)Brossier, Operto, \& Virieux]{brossier2009}
+Brossier, R., Operto, S., \& Virieux, J., 2009.
+\newblock Seismic imaging of complex onshore structures by 2d elastic
+  frequency-domain full-waveform inversion, {\it Geophysics\/}, {\bf 74}(6),
+  WCC105--WCC118.
+
+\bibitem[Chavent et~al.(1994)Chavent, Cl{\'{e}}ment, \&
+  G{\'{o}}mez]{ChaventEtAl1994}
+Chavent, G., Cl{\'{e}}ment, F., \& G{\'{o}}mez, S., 1994.
+\newblock Automatic determination of velocities via migration-based traveltime
+  waveform inversion: A synthetic data example, in {\em {SEG} Technical Program
+  Expanded Abstracts 1994\/}, Society of Exploration Geophysicists.
+
+\bibitem[Chi et~al.(2015)Chi, Dong, \& Liu]{Chi2015}
+Chi, B., Dong, L., \& Liu, Y., 2015.
+\newblock Correlation-based reflection full-waveform inversion, {\it
+  Geophysics\/}, {\bf 80}(4), R189--R202.
+
+\bibitem[Clement et~al.(2001)Clement, Chavent, \& Gomez]{clement:2001}
+Clement, F., Chavent, G., \& Gomez, S., 2001.
+\newblock Migration-based traveltime waveform inversion of 2-d simple
+  structures: A synthetic example, {\it Geophysics\/}, {\bf 66}, 845--860.
+
+\bibitem[Guo \& Alkhalifah(2016)]{Guo2016}
+Guo, Q. \& Alkhalifah, T., 2016.
+\newblock {\it A nonlinear approach of elastic reflection waveform
+  inversion\/}, pp. 1421--1425, Society of Exploration Geophysicists.
+
+\bibitem[Guo et~al.(2017)Guo, Alkhalifah, \& Wu]{Qiang2017}
+Guo, Q., Alkhalifah, T., \& Wu, Z., 2017.
+\newblock Velocity building by reflection waveform inversion without
+  cycle-skipping, in {\em 79th {EAGE} Conference and Exhibition 2017\/}, {EAGE}
+  Publications.
+
+\bibitem[Hale(2009)]{Hale2009Structure}
+Hale, D., 2009.
+\newblock Structure-oriented smoothing and semblance, {\it CWP report\/}.
+
+\bibitem[Hale(2013)]{Hale2013}
+Hale, D., 2013.
+\newblock Dynamic warping of seismic images, {\it GEOPHYSICS\/}, {\bf 78}(2),
+  S105--S115.
+
+\bibitem[Hou \& Symes(2015)]{Hou2015}
+Hou, J. \& Symes, W.~W., 2015.
+\newblock An approximate inverse to the extended born modeling operator, {\it
+  GEOPHYSICS\/}, {\bf 80}(6), R331--R349.
+
+\bibitem[Jones(2010)]{Jones2010}
+Jones, I., 2010.
+\newblock Tutorial: Velocity estimation via ray-based tomography, {\it First
+  Break\/}, {\bf 28}(1719).
+
+\bibitem[Li et~al.(2016)Li, Ma, Fu, Gu, \& Liang]{Li2016a}
+Li, Z., Ma, X., Fu, C., Gu, B., \& Liang, G., 2016.
+\newblock Frequency-wavenumber implementation for p- and s-wave separation from
+  multi-component seismic data, {\it Exploration Geophysics\/}, {\bf 47}(1),
+  32.
+
+\bibitem[Liu \& Tromp(2006)]{Liu2006}
+Liu, Q. \& Tromp, J., 2006.
+\newblock Finite-frequency kernels based on adjoint methods, {\it Bulletin of
+  the Seismological Society of America\/}, {\bf 96}(6), 2383--2397.
+
+\bibitem[Ma \& Hale(2013)]{Ma2013}
+Ma, Y. \& Hale, D., 2013.
+\newblock Wave-equation reflection traveltime inversion with dynamic warping
+  and full waveform inversion, {\it Geophysics\/}, {\bf 78}(6), R223--R233.
+
+\bibitem[Ma et~al.(2010)Ma, Hale, Meng, \& Gong]{Ma2010}
+Ma, Y., Hale, D., Meng, Z.~J., \& Gong, B., 2010.
+\newblock {\it Full waveform inversion with image‐guided gradient\/}, pp.
+  1003--1007.
+
+\bibitem[Oh \& Alkhalifah(2016)]{Oh2016}
+Oh, J.-W. \& Alkhalifah, T., 2016.
+\newblock The scattering potential of partial derivative wavefields in {3-D}
+  elastic orthorhombic media: an inversion prospective, {\it Geophysical
+  Journal International\/}, {\bf 206}(3), 1740--1760.
+
+\bibitem[Operto et~al.(2013)Operto, Gholami, Prieux, Ribodetti, Brossier,
+  Metivier, \& Virieux]{operto2013guided}
+Operto, S., Gholami, Y., Prieux, V., Ribodetti, A., Brossier, R., Metivier, L.,
+  \& Virieux, J., 2013.
+\newblock A guided tour of multiparameter full-waveform inversion with
+  multicomponent data: From theory to practice, {\it The Leading Edge\/}, {\bf
+  32}(9), 1040--1054.
+
+\bibitem[Plessix(2006)]{plessix2006}
+Plessix, R.-E., 2006.
+\newblock A review of the adjoint-state method for computing the gradient of a
+  functional with geophysical applications, {\it Geophysical Journal
+  International\/}, {\bf 167}(2), 495--503.
+
+\bibitem[Pratt et~al.(1998)Pratt, Shin, \& Hick]{pratt1998gauss}
+Pratt, R.~G., Shin, C., \& Hick, G., 1998.
+\newblock Gauss--newton and full newton methods in frequency--space seismic
+  waveform inversion, {\it Geophysical Journal International\/}, {\bf 133}(2),
+  341--362.
+
+\bibitem[Prieux et~al.(2013)Prieux, Brossier, Operto, \& Virieux]{prieux:2013b}
+Prieux, V., Brossier, R., Operto, S., \& Virieux, J., 2013.
+\newblock Multiparameter full waveform inversion of multicomponent
+  ocean-bottom-cable data from the valhall field. part 2: imaging
+  compressive-wave and shear-wave velocities, {\it Geophysical Journal
+  International\/}, p. ggt178.
+
+\bibitem[Raknes \& Weibull(2016)]{RaknesEtAl2016}
+Raknes, E.~B. \& Weibull, W., 2016.
+\newblock Combining wave-equation migration velocity analysis and full-waveform
+  inversion for improved {3D} elastic parameter estimation, in {\em {SEG}
+  Technical Program Expanded Abstracts 2016\/}, Society of Exploration
+  Geophysicists.
+
+\bibitem[Ravasi \& Curtis(2013)]{Ravasi2013}
+Ravasi, M. \& Curtis, A., 2013.
+\newblock Nonlinear scattering based imaging in elastic media: Theory,
+  theorems, and imaging conditions, {\it Geophysics\/}, {\bf 78}(3),
+  S137--S155.
+
+\bibitem[Sears et~al.(2008)Sears, Singh, \& Barton]{sears2008}
+Sears, T., Singh, S., \& Barton, P., 2008.
+\newblock Elastic full waveform inversion of multi-component {OBC} seismic
+  data, {\it Geophysical Prospecting\/}, {\bf 56}, 843--862.
+
+\bibitem[Shipp \& Singh(2002)]{shipp:2002}
+Shipp, R.~M. \& Singh, S.~C., 2002.
+\newblock Two-dimensional full wavefield inversion of wide-aperture marine
+  seismic streamer data, {\it Geophysical Journal International\/}, {\bf
+  151}(2), 325--344.
+
+\bibitem[Stork(1992)]{Stork1992}
+Stork, C., 1992.
+\newblock Reflection tomography in the postmigrated domain, {\it
+  {Geophysics}\/}, {\bf 57}(5), 680--692.
+
+\bibitem[Sun \& Symes(2012)]{SunEtAl2012}
+Sun, D. \& Symes, W.~W., 2012.
+\newblock Waveform inversion via nonlinear differential semblance optimization,
+  in {\em {SEG} Technical Program Expanded Abstracts 2012\/}, Society of
+  Exploration Geophysicists.
+
+\bibitem[Symes(2008{\natexlab{a}})]{Symes2008}
+Symes, W.~W., 2008{\natexlab{a}}.
+\newblock Approximate linearized inversion by optimal scaling of prestack depth
+  migration, {\it {Geophysics}\/}, {\bf 73}(2), R23--R35.
+
+\bibitem[Symes(2008{\natexlab{b}})]{Symes2008a}
+Symes, W.~W., 2008{\natexlab{b}}.
+\newblock Migration velocity analysis and waveform inversion, {\it Geophysical
+  Prospecting\/}, {\bf 56}(6), 765--790.
+
+\bibitem[Tarantola(1984)]{tarantola1984}
+Tarantola, A., 1984.
+\newblock Inversion of seismic reflection data in the acoustic approximation,
+  {\it Geophysics\/}, {\bf 49}(8), 1259--1266.
+
+\bibitem[Tarantola(1986)]{tarantola1986}
+Tarantola, A., 1986.
+\newblock A strategy for nonlinear elastic inversion of seismic reflection
+  data, {\it Geophysics\/}, {\bf 51}(10), 1893--1903.
+
+\bibitem[Virieux \& Operto(2009)]{virieux2009overview}
+Virieux, J. \& Operto, S., 2009.
+\newblock An overview of full-waveform inversion in exploration geophysics,
+  {\it Geophysics\/}, {\bf 74}(6), WCC1--WCC26.
+
+\bibitem[Wang et~al.(2017{\natexlab{a}})Wang, Weibull, Cheng, \&
+  Arntsen]{Wang2017WEMVA}
+Wang, C., Weibull, W., Cheng, J., \& Arntsen, B., 2017{\natexlab{a}}.
+\newblock Automatic shear-wave velocity analysis with elastic reverse time
+  migration, {\it 79th EAGE Conference and Exhibition 2017, Expanded
+  Abstracts\/}.
+
+\bibitem[Wang et~al.(2015{\natexlab{a}})Wang, Singh, Audebert, \&
+  Calandra]{Wang2015}
+Wang, H., Singh, S.~C., Audebert, F., \& Calandra, H., 2015{\natexlab{a}}.
+\newblock Inversion of seismic refraction and reflection data for building
+  long-wavelength velocity models, {\it Geophysics\/}, {\bf 80}(2), R81--R93.
+
+\bibitem[Wang \& Cheng(2017)]{WangEtAl2017}
+Wang, T. \& Cheng, J., 2017.
+\newblock Elastic full waveform inversion based on mode decomposition: the
+  approach and mechanism, {\it Geophysical Journal International\/}, {\bf
+  209}(2), 606--622.
+
+\bibitem[Wang et~al.(2014)Wang, Kang, \& Cheng]{WangEtAl2014}
+Wang, T., Kang, W., \& Cheng, J., 2014.
+\newblock Migration velocity model building using local angle domain nonlinear
+  tomography, in {\em Beijing 2014 International Geophysical Conference and
+  Exposition, Beijing, China, 21-24 April 2014\/}, Society of Exploration
+  Geophysicists.
+
+\bibitem[Wang et~al.(2015{\natexlab{b}})Wang, Cheng, \& Wang]{wang:2015}
+Wang, T., Cheng, J., \& Wang, C., 2015{\natexlab{b}}.
+\newblock Elastic wave mode decoupling for full waveform inversion, {\it 77th
+  EAGE Conference and Exhibition 2015, Expanded Abstracts\/}.
+
+\bibitem[Wang et~al.(2017{\natexlab{b}})Wang, Cheng, Guo, \&
+  Wang]{Wang2017ERTI}
+Wang, T., Cheng, J., Guo, Q., \& Wang, C., 2017{\natexlab{b}}.
+\newblock Elastic wave-equation reflection traveltime inversion using dynamic
+  warping and wave mode decomposition, {\it 79th EAGE Conference and Exhibition
+  2017, Expanded Abstracts\/}.
+
+\bibitem[Weibull \& Arntsen(2014)]{Weibull2014}
+Weibull, W.~W. \& Arntsen, B., 2014.
+\newblock Reverse-time demigration using the extended-imaging condition, {\it
+  {GEOPHYSICS}\/}, {\bf 79}(3), WA97--WA105.
+
+\bibitem[Williamson et~al.(2011)Williamson, Atle, Fei, \& Hale]{Williamson2011}
+Williamson, P., Atle, A., Fei, W., \& Hale, D., 2011.
+\newblock Regularization of wave-equation migration velocity analysis by
+  structure-oriented smoothing, in {\em {SEG} Technical Program Expanded
+  Abstracts 2011\/}, Society of Exploration Geophysicists.
+
+\bibitem[Woodward(1992)]{Woodward1992}
+Woodward, M.~J., 1992.
+\newblock Wave-equation tomography, {\it Geophysics\/}, {\bf 57}(1), 15--26.
+
+\bibitem[Woodward et~al.(2008)Woodward, Nichols, Zdraveva, Whitfield, \&
+  Johns]{Woodward2008}
+Woodward, M.~J., Nichols, D., Zdraveva, O., Whitfield, P., \& Johns, T., 2008.
+\newblock A decade of tomography, {\it Geophysics\/}, {\bf 73}(5), VE5--VE11.
+
+\bibitem[Wu \& Alkhalifah(2015)]{Wu2015b}
+Wu, Z. \& Alkhalifah, T., 2015.
+\newblock Simultaneous inversion of the background velocity and the
+  perturbation in full-waveform inversion, {\it Geophysics\/}, {\bf 80}(6),
+  R317--R329.
+
+\bibitem[Xu et~al.(2012)Xu, Wang, Chen, Lambare, \& Zhang]{xu:2012}
+Xu, S., Wang, D., Chen, F., Lambare, G., \& Zhang, Y., 2012.
+\newblock Inversion on reflected seismic wave, {\it 82nd Annual International
+  Meeting, SEG, Expanded Abstracts\/}, pp. 1--7.
+
+\bibitem[Zhou et~al.(2015)Zhou, Brossier, Operto, \& Virieux]{Zhou2015}
+Zhou, W., Brossier, R., Operto, S., \& Virieux, J., 2015.
+\newblock Full waveform inversion of diving \& reflected waves for velocity
+  model building with impedance inversion based on scale separation, {\it
+  Geophysical Journal International\/}, {\bf 202}, 1535--1554.
+
+\end{thebibliography}

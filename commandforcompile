@@ -1,0 +1,6 @@
+rm erti_gji.aux erti_gji.dvi erti_gji.blg erti_gji.bbl erti_gji.log
+latex erti_gji.tex
+bibtex erti_gji.aux
+pdflatex erti_gji.tex
+pdflatex erti_gji.tex
+
